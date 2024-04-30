@@ -1,6383 +1,6383 @@
 [
  {
-   "fips": "1019",
+   "fips": 1019,
    "state": "AL",
    "area_name": "Cherokee County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1049",
+   "fips": 1049,
    "state": "AL",
    "area_name": "DeKalb County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1071",
+   "fips": 1071,
    "state": "AL",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1083",
+   "fips": 1083,
    "state": "AL",
    "area_name": "Limestone County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1089",
+   "fips": 1089,
    "state": "AL",
    "area_name": "Madison County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1103",
+   "fips": 1103,
    "state": "AL",
    "area_name": "Morgan County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1009",
+   "fips": 1009,
    "state": "AL",
    "area_name": "Blount County",
    "bachelorsOrHigher": "Valley MLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "16007",
+   "fips": 16007,
    "state": "ID",
    "area_name": "Bear Lake County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29043",
+   "fips": 29043,
    "state": "MO",
    "area_name": "Christian County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34017",
+   "fips": 34017,
    "state": "NJ",
    "area_name": "Hudson County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49005",
+   "fips": 49005,
    "state": "UT",
    "area_name": "Cache County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49011",
+   "fips": 49011,
    "state": "UT",
    "area_name": "Davis County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49013",
+   "fips": 49013,
    "state": "UT",
    "area_name": "Duchesne County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49021",
+   "fips": 49021,
    "state": "UT",
    "area_name": "Iron County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49029",
+   "fips": 49029,
    "state": "UT",
    "area_name": "Morgan County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49035",
+   "fips": 49035,
    "state": "UT",
    "area_name": "Salt Lake County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49039",
+   "fips": 49039,
    "state": "UT",
    "area_name": "Sanpete County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49043",
+   "fips": 49043,
    "state": "UT",
    "area_name": "Summit County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49045",
+   "fips": 49045,
    "state": "UT",
    "area_name": "Tooele County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49047",
+   "fips": 49047,
    "state": "UT",
    "area_name": "Uintah County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49049",
+   "fips": 49049,
    "state": "UT",
    "area_name": "Utah County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49057",
+   "fips": 49057,
    "state": "UT",
    "area_name": "Weber County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "56023",
+   "fips": 56023,
    "state": "WY",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "URE MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48027",
+   "fips": 48027,
    "state": "TX",
    "area_name": "Bell County",
    "bachelorsOrHigher": "Unlock MLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48055",
+   "fips": 48055,
    "state": "TX",
    "area_name": "Caldwell County",
    "bachelorsOrHigher": "Unlock MLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48209",
+   "fips": 48209,
    "state": "TX",
    "area_name": "Hays County",
    "bachelorsOrHigher": "Unlock MLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48031",
+   "fips": 48031,
    "state": "TX",
    "area_name": "Blanco County",
    "bachelorsOrHigher": "Unlock MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37033",
+   "fips": 37033,
    "state": "NC",
    "area_name": "Caswell County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37057",
+   "fips": 37057,
    "state": "NC",
    "area_name": "Davidson County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37067",
+   "fips": 37067,
    "state": "NC",
    "area_name": "Forsyth County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37081",
+   "fips": 37081,
    "state": "NC",
    "area_name": "Guilford County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37151",
+   "fips": 37151,
    "state": "NC",
    "area_name": "Randolph County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37087",
+   "fips": 37087,
    "state": "NC",
    "area_name": "Haywood County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37119",
+   "fips": 37119,
    "state": "NC",
    "area_name": "Mecklenburg County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37051",
+   "fips": 37051,
    "state": "NC",
    "area_name": "Cumberland County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37133",
+   "fips": 37133,
    "state": "NC",
    "area_name": "Onslow County",
    "bachelorsOrHigher": "TRIAD",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12015",
+   "fips": 12015,
    "state": "FL",
    "area_name": "Charlotte County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12057",
+   "fips": 12057,
    "state": "FL",
    "area_name": "Hillsborough County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12069",
+   "fips": 12069,
    "state": "FL",
    "area_name": "Lake County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12081",
+   "fips": 12081,
    "state": "FL",
    "area_name": "Manatee County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12095",
+   "fips": 12095,
    "state": "FL",
    "area_name": "Orange County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12101",
+   "fips": 12101,
    "state": "FL",
    "area_name": "Pasco County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12103",
+   "fips": 12103,
    "state": "FL",
    "area_name": "Pinellas County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12105",
+   "fips": 12105,
    "state": "FL",
    "area_name": "Polk County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12115",
+   "fips": 12115,
    "state": "FL",
    "area_name": "Sarasota County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12127",
+   "fips": 12127,
    "state": "FL",
    "area_name": "Volusia County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12031",
+   "fips": 12031,
    "state": "FL",
    "area_name": "Duval County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": "Real MLS"
  },
  {
-   "fips": "12085",
+   "fips": 12085,
    "state": "FL",
    "area_name": "Martin County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": "Beaches MLS"
  },
  {
-   "fips": "12086",
+   "fips": 12086,
    "state": "FL",
    "area_name": "Miami-Dade County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": "Beaches MLS"
  },
  {
-   "fips": "12001",
+   "fips": 12001,
    "state": "FL",
    "area_name": "Alachua County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12009",
+   "fips": 12009,
    "state": "FL",
    "area_name": "Brevard County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12019",
+   "fips": 12019,
    "state": "FL",
    "area_name": "Clay County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12021",
+   "fips": 12021,
    "state": "FL",
    "area_name": "Collier County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12023",
+   "fips": 12023,
    "state": "FL",
    "area_name": "Columbia County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12053",
+   "fips": 12053,
    "state": "FL",
    "area_name": "Hernando County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12071",
+   "fips": 12071,
    "state": "FL",
    "area_name": "Lee County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12083",
+   "fips": 12083,
    "state": "FL",
    "area_name": "Marion County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12091",
+   "fips": 12091,
    "state": "FL",
    "area_name": "Okaloosa County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12119",
+   "fips": 12119,
    "state": "FL",
    "area_name": "Sumter County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "44001",
+   "fips": 44001,
    "state": "RI",
    "area_name": "Bristol County",
    "bachelorsOrHigher": "Statewide MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "44003",
+   "fips": 44003,
    "state": "RI",
    "area_name": "Kent County",
    "bachelorsOrHigher": "Statewide MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "44007",
+   "fips": 44007,
    "state": "RI",
    "area_name": "Providence County",
    "bachelorsOrHigher": "Statewide MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "44009",
+   "fips": 44009,
    "state": "RI",
    "area_name": "Washington County",
    "bachelorsOrHigher": "Statewide MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "15003",
+   "fips": 15003,
    "state": "HI",
    "area_name": "Honolulu County",
    "bachelorsOrHigher": "SOCALMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9003",
+   "fips": 9003,
    "state": "CT",
    "area_name": "Hartford County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9005",
+   "fips": 9005,
    "state": "CT",
    "area_name": "Litchfield County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9007",
+   "fips": 9007,
    "state": "CT",
    "area_name": "Middlesex County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9009",
+   "fips": 9009,
    "state": "CT",
    "area_name": "New Haven County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9011",
+   "fips": 9011,
    "state": "CT",
    "area_name": "New London County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9013",
+   "fips": 9013,
    "state": "CT",
    "area_name": "Tolland County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6073",
+   "fips": 6073,
    "state": "CA",
    "area_name": "San Diego County",
    "bachelorsOrHigher": "SDMLS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6083",
+   "fips": 6083,
    "state": "CA",
    "area_name": "Santa Barbara County",
    "bachelorsOrHigher": "SDMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16019",
+   "fips": 16019,
    "state": "ID",
    "area_name": "Bonneville County",
    "bachelorsOrHigher": "SDMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48013",
+   "fips": 48013,
    "state": "TX",
    "area_name": "Atascosa County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48029",
+   "fips": 48029,
    "state": "TX",
    "area_name": "Bexar County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48325",
+   "fips": 48325,
    "state": "TX",
    "area_name": "Medina County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48175",
+   "fips": 48175,
    "state": "TX",
    "area_name": "Goliad County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48187",
+   "fips": 48187,
    "state": "TX",
    "area_name": "Guadalupe County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48019",
+   "fips": 48019,
    "state": "TX",
    "area_name": "Bandera County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48053",
+   "fips": 48053,
    "state": "TX",
    "area_name": "Burnet County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48355",
+   "fips": 48355,
    "state": "TX",
    "area_name": "Nueces County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48385",
+   "fips": 48385,
    "state": "TX",
    "area_name": "Real County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41051",
+   "fips": 41051,
    "state": "OR",
    "area_name": "Multnomah County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41001",
+   "fips": 41001,
    "state": "OR",
    "area_name": "Baker County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41005",
+   "fips": 41005,
    "state": "OR",
    "area_name": "Clackamas County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41019",
+   "fips": 41019,
    "state": "OR",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41027",
+   "fips": 41027,
    "state": "OR",
    "area_name": "Hood River County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41033",
+   "fips": 41033,
    "state": "OR",
    "area_name": "Josephine County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41039",
+   "fips": 41039,
    "state": "OR",
    "area_name": "Lane County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41041",
+   "fips": 41041,
    "state": "OR",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41047",
+   "fips": 41047,
    "state": "OR",
    "area_name": "Marion County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41049",
+   "fips": 41049,
    "state": "OR",
    "area_name": "Morrow County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41057",
+   "fips": 41057,
    "state": "OR",
    "area_name": "Tillamook County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41059",
+   "fips": 41059,
    "state": "OR",
    "area_name": "Umatilla County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41065",
+   "fips": 41065,
    "state": "OR",
    "area_name": "Wasco County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41067",
+   "fips": 41067,
    "state": "OR",
    "area_name": "Washington County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41071",
+   "fips": 41071,
    "state": "OR",
    "area_name": "Yamhill County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41017",
+   "fips": 41017,
    "state": "OR",
    "area_name": "Deschutes County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41003",
+   "fips": 41003,
    "state": "OR",
    "area_name": "Benton County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41013",
+   "fips": 41013,
    "state": "OR",
    "area_name": "Crook County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41025",
+   "fips": 41025,
    "state": "OR",
    "area_name": "Harney County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41029",
+   "fips": 41029,
    "state": "OR",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "41043",
+   "fips": 41043,
    "state": "OR",
    "area_name": "Linn County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53005",
+   "fips": 53005,
    "state": "WA",
    "area_name": "Benton County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53007",
+   "fips": 53007,
    "state": "WA",
    "area_name": "Chelan County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53011",
+   "fips": 53011,
    "state": "WA",
    "area_name": "Clark County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53015",
+   "fips": 53015,
    "state": "WA",
    "area_name": "Cowlitz County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53029",
+   "fips": 53029,
    "state": "WA",
    "area_name": "Island County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53039",
+   "fips": 53039,
    "state": "WA",
    "area_name": "Klickitat County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53045",
+   "fips": 53045,
    "state": "WA",
    "area_name": "Mason County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53053",
+   "fips": 53053,
    "state": "WA",
    "area_name": "Pierce County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53055",
+   "fips": 53055,
    "state": "WA",
    "area_name": "San Juan County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53061",
+   "fips": 53061,
    "state": "WA",
    "area_name": "Snohomish County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53063",
+   "fips": 53063,
    "state": "WA",
    "area_name": "Spokane County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53071",
+   "fips": 53071,
    "state": "WA",
    "area_name": "Walla Walla County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "9001",
+   "fips": 9001,
    "state": "CT",
    "area_name": "Fairfield County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8001",
+   "fips": 8001,
    "state": "CO",
    "area_name": "Adams County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8005",
+   "fips": 8005,
    "state": "CO",
    "area_name": "Arapahoe County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8019",
+   "fips": 8019,
    "state": "CO",
    "area_name": "Clear Creek County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8031",
+   "fips": 8031,
    "state": "CO",
    "area_name": "Denver County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8035",
+   "fips": 8035,
    "state": "CO",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8059",
+   "fips": 8059,
    "state": "CO",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8041",
+   "fips": 8041,
    "state": "CO",
    "area_name": "El Paso County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": "PPAR"
  },
  {
-   "fips": "8015",
+   "fips": 8015,
    "state": "CO",
    "area_name": "Chaffee County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8051",
+   "fips": 8051,
    "state": "CO",
    "area_name": "Gunnison County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8069",
+   "fips": 8069,
    "state": "CO",
    "area_name": "Larimer County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8073",
+   "fips": 8073,
    "state": "CO",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8077",
+   "fips": 8077,
    "state": "CO",
    "area_name": "Mesa County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8123",
+   "fips": 8123,
    "state": "CO",
    "area_name": "Weld County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8067",
+   "fips": 8067,
    "state": "CO",
    "area_name": "La Plata County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55079",
+   "fips": 55079,
    "state": "WI",
    "area_name": "Milwaukee County",
    "bachelorsOrHigher": "REcolorado",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "37169",
+   "fips": 37169,
    "state": "NC",
    "area_name": "Stokes County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "13217",
+   "fips": 13217,
    "state": "GA",
    "area_name": "Newton County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "37025",
+   "fips": 37025,
    "state": "NC",
    "area_name": "Cabarrus County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "21047",
+   "fips": 21047,
    "state": "KY",
    "area_name": "Christian County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29183",
+   "fips": 29183,
    "state": "MO",
    "area_name": "St. Charles County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47003",
+   "fips": 47003,
    "state": "TN",
    "area_name": "Bedford County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47007",
+   "fips": 47007,
    "state": "TN",
    "area_name": "Bledsoe County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47015",
+   "fips": 47015,
    "state": "TN",
    "area_name": "Cannon County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47021",
+   "fips": 47021,
    "state": "TN",
    "area_name": "Cheatham County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47031",
+   "fips": 47031,
    "state": "TN",
    "area_name": "Coffee County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47035",
+   "fips": 47035,
    "state": "TN",
    "area_name": "Cumberland County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47037",
+   "fips": 47037,
    "state": "TN",
    "area_name": "Davidson County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47041",
+   "fips": 47041,
    "state": "TN",
    "area_name": "DeKalb County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47043",
+   "fips": 47043,
    "state": "TN",
    "area_name": "Dickson County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47051",
+   "fips": 47051,
    "state": "TN",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47055",
+   "fips": 47055,
    "state": "TN",
    "area_name": "Giles County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47061",
+   "fips": 47061,
    "state": "TN",
    "area_name": "Grundy County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47063",
+   "fips": 47063,
    "state": "TN",
    "area_name": "Hamblen County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47073",
+   "fips": 47073,
    "state": "TN",
    "area_name": "Hawkins County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47081",
+   "fips": 47081,
    "state": "TN",
    "area_name": "Hickman County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47117",
+   "fips": 47117,
    "state": "TN",
    "area_name": "Marshall County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47125",
+   "fips": 47125,
    "state": "TN",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47147",
+   "fips": 47147,
    "state": "TN",
    "area_name": "Robertson County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47149",
+   "fips": 47149,
    "state": "TN",
    "area_name": "Rutherford County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47159",
+   "fips": 47159,
    "state": "TN",
    "area_name": "Smith County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47165",
+   "fips": 47165,
    "state": "TN",
    "area_name": "Sumner County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47187",
+   "fips": 47187,
    "state": "TN",
    "area_name": "Williamson County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47189",
+   "fips": 47189,
    "state": "TN",
    "area_name": "Wilson County",
    "bachelorsOrHigher": "Realtracs",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26081",
+   "fips": 26081,
    "state": "MI",
    "area_name": "Kent County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26037",
+   "fips": 26037,
    "state": "MI",
    "area_name": "Clinton County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26045",
+   "fips": 26045,
    "state": "MI",
    "area_name": "Eaton County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26049",
+   "fips": 26049,
    "state": "MI",
    "area_name": "Genesee County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26065",
+   "fips": 26065,
    "state": "MI",
    "area_name": "Ingham County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26087",
+   "fips": 26087,
    "state": "MI",
    "area_name": "Lapeer County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26091",
+   "fips": 26091,
    "state": "MI",
    "area_name": "Lenawee County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26093",
+   "fips": 26093,
    "state": "MI",
    "area_name": "Livingston County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26099",
+   "fips": 26099,
    "state": "MI",
    "area_name": "Macomb County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26115",
+   "fips": 26115,
    "state": "MI",
    "area_name": "Monroe County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26117",
+   "fips": 26117,
    "state": "MI",
    "area_name": "Montcalm County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26147",
+   "fips": 26147,
    "state": "MI",
    "area_name": "St. Clair County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26151",
+   "fips": 26151,
    "state": "MI",
    "area_name": "Sanilac County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26155",
+   "fips": 26155,
    "state": "MI",
    "area_name": "Shiawassee County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26161",
+   "fips": 26161,
    "state": "MI",
    "area_name": "Washtenaw County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "26163",
+   "fips": 26163,
    "state": "MI",
    "area_name": "Wayne County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13089",
+   "fips": 13089,
    "state": "GA",
    "area_name": "DeKalb County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13137",
+   "fips": 13137,
    "state": "GA",
    "area_name": "Habersham County",
    "bachelorsOrHigher": "REALCOMP",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12107",
+   "fips": 12107,
    "state": "FL",
    "area_name": "Putnam County",
    "bachelorsOrHigher": "Real MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12035",
+   "fips": 12035,
    "state": "FL",
    "area_name": "Flagler County",
    "bachelorsOrHigher": "Real MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12109",
+   "fips": 12109,
    "state": "FL",
    "area_name": "St. Johns County",
    "bachelorsOrHigher": "Real MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "33001",
+   "fips": 33001,
    "state": "NH",
    "area_name": "Belknap County",
    "bachelorsOrHigher": "Prime MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "33013",
+   "fips": 33013,
    "state": "NH",
    "area_name": "Merrimack County",
    "bachelorsOrHigher": "Prime MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "50027",
+   "fips": 50027,
    "state": "VT",
    "area_name": "Windsor County",
    "bachelorsOrHigher": "Prime MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "36001",
+   "fips": 36001,
    "state": "NY",
    "area_name": "Albany County",
    "bachelorsOrHigher": "OneKey MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "36015",
+   "fips": 36015,
    "state": "NY",
    "area_name": "Chemung County",
    "bachelorsOrHigher": "OneKey MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "36119",
+   "fips": 36119,
    "state": "NY",
    "area_name": "Westchester County",
    "bachelorsOrHigher": "OneKey MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53033",
+   "fips": 53033,
    "state": "WA",
    "area_name": "King County",
    "bachelorsOrHigher": "OneKey MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53001",
+   "fips": 53001,
    "state": "WA",
    "area_name": "Adams County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53027",
+   "fips": 53027,
    "state": "WA",
    "area_name": "Grays Harbor County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53031",
+   "fips": 53031,
    "state": "WA",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53035",
+   "fips": 53035,
    "state": "WA",
    "area_name": "Kitsap County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53057",
+   "fips": 53057,
    "state": "WA",
    "area_name": "Skagit County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53067",
+   "fips": 53067,
    "state": "WA",
    "area_name": "Thurston County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53073",
+   "fips": 53073,
    "state": "WA",
    "area_name": "Whatcom County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "53077",
+   "fips": 53077,
    "state": "WA",
    "area_name": "Yakima County",
    "bachelorsOrHigher": "NWMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22013",
+   "fips": 22013,
    "state": "LA",
    "area_name": "Bienville Parish",
    "bachelorsOrHigher": "NWLAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22015",
+   "fips": 22015,
    "state": "LA",
    "area_name": "Bossier Parish",
    "bachelorsOrHigher": "NWLAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22017",
+   "fips": 22017,
    "state": "LA",
    "area_name": "Caddo Parish",
    "bachelorsOrHigher": "NWLAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22027",
+   "fips": 22027,
    "state": "LA",
    "area_name": "Claiborne Parish",
    "bachelorsOrHigher": "NWLAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "28049",
+   "fips": 28049,
    "state": "MS",
    "area_name": "Hinds County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40037",
+   "fips": 40037,
    "state": "OK",
    "area_name": "Creek County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40085",
+   "fips": 40085,
    "state": "OK",
    "area_name": "Love County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40143",
+   "fips": 40143,
    "state": "OK",
    "area_name": "Tulsa County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48001",
+   "fips": 48001,
    "state": "TX",
    "area_name": "Anderson County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48085",
+   "fips": 48085,
    "state": "TX",
    "area_name": "Collin County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48097",
+   "fips": 48097,
    "state": "TX",
    "area_name": "Cooke County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48113",
+   "fips": 48113,
    "state": "TX",
    "area_name": "Dallas County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48121",
+   "fips": 48121,
    "state": "TX",
    "area_name": "Denton County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48133",
+   "fips": 48133,
    "state": "TX",
    "area_name": "Eastland County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48139",
+   "fips": 48139,
    "state": "TX",
    "area_name": "Ellis County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48143",
+   "fips": 48143,
    "state": "TX",
    "area_name": "Erath County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48181",
+   "fips": 48181,
    "state": "TX",
    "area_name": "Grayson County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48213",
+   "fips": 48213,
    "state": "TX",
    "area_name": "Henderson County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48221",
+   "fips": 48221,
    "state": "TX",
    "area_name": "Hood County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48231",
+   "fips": 48231,
    "state": "TX",
    "area_name": "Hunt County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48235",
+   "fips": 48235,
    "state": "TX",
    "area_name": "Irion County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48251",
+   "fips": 48251,
    "state": "TX",
    "area_name": "Johnson County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48257",
+   "fips": 48257,
    "state": "TX",
    "area_name": "Kaufman County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48309",
+   "fips": 48309,
    "state": "TX",
    "area_name": "McLennan County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48337",
+   "fips": 48337,
    "state": "TX",
    "area_name": "Montague County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48349",
+   "fips": 48349,
    "state": "TX",
    "area_name": "Navarro County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48367",
+   "fips": 48367,
    "state": "TX",
    "area_name": "Parker County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48375",
+   "fips": 48375,
    "state": "TX",
    "area_name": "Potter County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48381",
+   "fips": 48381,
    "state": "TX",
    "area_name": "Randall County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48407",
+   "fips": 48407,
    "state": "TX",
    "area_name": "San Jacinto County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48423",
+   "fips": 48423,
    "state": "TX",
    "area_name": "Smith County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48439",
+   "fips": 48439,
    "state": "TX",
    "area_name": "Tarrant County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48441",
+   "fips": 48441,
    "state": "TX",
    "area_name": "Taylor County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48467",
+   "fips": 48467,
    "state": "TX",
    "area_name": "Van Zandt County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48497",
+   "fips": 48497,
    "state": "TX",
    "area_name": "Wise County",
    "bachelorsOrHigher": "NTREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27001",
+   "fips": 27001,
    "state": "MN",
    "area_name": "Aitkin County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27003",
+   "fips": 27003,
    "state": "MN",
    "area_name": "Anoka County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27007",
+   "fips": 27007,
    "state": "MN",
    "area_name": "Beltrami County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27009",
+   "fips": 27009,
    "state": "MN",
    "area_name": "Benton County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27013",
+   "fips": 27013,
    "state": "MN",
    "area_name": "Blue Earth County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27019",
+   "fips": 27019,
    "state": "MN",
    "area_name": "Carver County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27021",
+   "fips": 27021,
    "state": "MN",
    "area_name": "Cass County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27035",
+   "fips": 27035,
    "state": "MN",
    "area_name": "Crow Wing County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27037",
+   "fips": 27037,
    "state": "MN",
    "area_name": "Dakota County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27039",
+   "fips": 27039,
    "state": "MN",
    "area_name": "Dodge County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27043",
+   "fips": 27043,
    "state": "MN",
    "area_name": "Faribault County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27053",
+   "fips": 27053,
    "state": "MN",
    "area_name": "Hennepin County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27061",
+   "fips": 27061,
    "state": "MN",
    "area_name": "Itasca County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27065",
+   "fips": 27065,
    "state": "MN",
    "area_name": "Kanabec County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27067",
+   "fips": 27067,
    "state": "MN",
    "area_name": "Kandiyohi County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27079",
+   "fips": 27079,
    "state": "MN",
    "area_name": "Le Sueur County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27085",
+   "fips": 27085,
    "state": "MN",
    "area_name": "McLeod County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27097",
+   "fips": 27097,
    "state": "MN",
    "area_name": "Morrison County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27109",
+   "fips": 27109,
    "state": "MN",
    "area_name": "Olmsted County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27123",
+   "fips": 27123,
    "state": "MN",
    "area_name": "Ramsey County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27137",
+   "fips": 27137,
    "state": "MN",
    "area_name": "St. Louis County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27139",
+   "fips": 27139,
    "state": "MN",
    "area_name": "Scott County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27145",
+   "fips": 27145,
    "state": "MN",
    "area_name": "Stearns County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27163",
+   "fips": 27163,
    "state": "MN",
    "area_name": "Washington County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "27171",
+   "fips": 27171,
    "state": "MN",
    "area_name": "Wright County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22079",
+   "fips": 22079,
    "state": "LA",
    "area_name": "Rapides Parish",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55005",
+   "fips": 55005,
    "state": "WI",
    "area_name": "Barron County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55011",
+   "fips": 55011,
    "state": "WI",
    "area_name": "Buffalo County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55017",
+   "fips": 55017,
    "state": "WI",
    "area_name": "Chippewa County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55025",
+   "fips": 55025,
    "state": "WI",
    "area_name": "Dane County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55027",
+   "fips": 55027,
    "state": "WI",
    "area_name": "Dodge County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55033",
+   "fips": 55033,
    "state": "WI",
    "area_name": "Dunn County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55059",
+   "fips": 55059,
    "state": "WI",
    "area_name": "Kenosha County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55071",
+   "fips": 55071,
    "state": "WI",
    "area_name": "Manitowoc County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55101",
+   "fips": 55101,
    "state": "WI",
    "area_name": "Racine County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55109",
+   "fips": 55109,
    "state": "WI",
    "area_name": "St. Croix County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "55133",
+   "fips": 55133,
    "state": "WI",
    "area_name": "Waukesha County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32001",
+   "fips": 32001,
    "state": "NV",
    "area_name": "Churchill County",
    "bachelorsOrHigher": "NNRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32005",
+   "fips": 32005,
    "state": "NV",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "NNRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32029",
+   "fips": 32029,
    "state": "NV",
    "area_name": "Storey County",
    "bachelorsOrHigher": "NNRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "17031",
+   "fips": 17031,
    "state": "IL",
    "area_name": "Cook County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4003",
+   "fips": 4003,
    "state": "AZ",
    "area_name": "Cochise County",
    "bachelorsOrHigher": "MLSSAZ",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4017",
+   "fips": 4017,
    "state": "AZ",
    "area_name": "Navajo County",
    "bachelorsOrHigher": "MLSSAZ",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4019",
+   "fips": 4019,
    "state": "AZ",
    "area_name": "Pima County",
    "bachelorsOrHigher": "MLSSAZ",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40017",
+   "fips": 40017,
    "state": "OK",
    "area_name": "Canadian County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40051",
+   "fips": 40051,
    "state": "OK",
    "area_name": "Grady County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40081",
+   "fips": 40081,
    "state": "OK",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40083",
+   "fips": 40083,
    "state": "OK",
    "area_name": "Logan County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40121",
+   "fips": 40121,
    "state": "OK",
    "area_name": "Pittsburg County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40123",
+   "fips": 40123,
    "state": "OK",
    "area_name": "Pontotoc County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40149",
+   "fips": 40149,
    "state": "OK",
    "area_name": "Washita County",
    "bachelorsOrHigher": "MLSOK",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25001",
+   "fips": 25001,
    "state": "MA",
    "area_name": "Barnstable County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25005",
+   "fips": 25005,
    "state": "MA",
    "area_name": "Bristol County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25009",
+   "fips": 25009,
    "state": "MA",
    "area_name": "Essex County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25011",
+   "fips": 25011,
    "state": "MA",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25013",
+   "fips": 25013,
    "state": "MA",
    "area_name": "Hampden County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25015",
+   "fips": 25015,
    "state": "MA",
    "area_name": "Hampshire County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25017",
+   "fips": 25017,
    "state": "MA",
    "area_name": "Middlesex County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25019",
+   "fips": 25019,
    "state": "MA",
    "area_name": "Nantucket County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25021",
+   "fips": 25021,
    "state": "MA",
    "area_name": "Norfolk County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25023",
+   "fips": 25023,
    "state": "MA",
    "area_name": "Plymouth County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25025",
+   "fips": 25025,
    "state": "MA",
    "area_name": "Suffolk County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "25027",
+   "fips": 25027,
    "state": "MA",
    "area_name": "Worcester County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "33011",
+   "fips": 33011,
    "state": "NH",
    "area_name": "Hillsborough County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "33015",
+   "fips": 33015,
    "state": "NH",
    "area_name": "Rockingham County",
    "bachelorsOrHigher": "MLS PIN",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39023",
+   "fips": 39023,
    "state": "OH",
    "area_name": "Clark County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "39037",
+   "fips": 39037,
    "state": "OH",
    "area_name": "Darke County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "39057",
+   "fips": 39057,
    "state": "OH",
    "area_name": "Greene County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "39045",
+   "fips": 39045,
    "state": "OH",
    "area_name": "Fairfield County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39049",
+   "fips": 39049,
    "state": "OH",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39017",
+   "fips": 39017,
    "state": "OH",
    "area_name": "Butler County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "CincyMLS"
  },
  {
-   "fips": "39061",
+   "fips": 39061,
    "state": "OH",
    "area_name": "Hamilton County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": "CincyMLS"
  },
  {
-   "fips": "39007",
+   "fips": 39007,
    "state": "OH",
    "area_name": "Ashtabula County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39011",
+   "fips": 39011,
    "state": "OH",
    "area_name": "Auglaize County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39029",
+   "fips": 39029,
    "state": "OH",
    "area_name": "Columbiana County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39035",
+   "fips": 39035,
    "state": "OH",
    "area_name": "Cuyahoga County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39055",
+   "fips": 39055,
    "state": "OH",
    "area_name": "Geauga County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39063",
+   "fips": 39063,
    "state": "OH",
    "area_name": "Hancock County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39081",
+   "fips": 39081,
    "state": "OH",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39093",
+   "fips": 39093,
    "state": "OH",
    "area_name": "Lorain County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39099",
+   "fips": 39099,
    "state": "OH",
    "area_name": "Mahoning County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39103",
+   "fips": 39103,
    "state": "OH",
    "area_name": "Medina County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39121",
+   "fips": 39121,
    "state": "OH",
    "area_name": "Noble County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39133",
+   "fips": 39133,
    "state": "OH",
    "area_name": "Portage County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39151",
+   "fips": 39151,
    "state": "OH",
    "area_name": "Stark County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39153",
+   "fips": 39153,
    "state": "OH",
    "area_name": "Summit County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39155",
+   "fips": 39155,
    "state": "OH",
    "area_name": "Trumbull County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39157",
+   "fips": 39157,
    "state": "OH",
    "area_name": "Tuscarawas County",
    "bachelorsOrHigher": "MLS Now",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39113",
+   "fips": 39113,
    "state": "OH",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "12131",
+   "fips": 12131,
    "state": "FL",
    "area_name": "Walton County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18011",
+   "fips": 18011,
    "state": "IN",
    "area_name": "Boone County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18035",
+   "fips": 18035,
    "state": "IN",
    "area_name": "Delaware County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18057",
+   "fips": 18057,
    "state": "IN",
    "area_name": "Hamilton County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18059",
+   "fips": 18059,
    "state": "IN",
    "area_name": "Hancock County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18063",
+   "fips": 18063,
    "state": "IN",
    "area_name": "Hendricks County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18079",
+   "fips": 18079,
    "state": "IN",
    "area_name": "Jennings County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18081",
+   "fips": 18081,
    "state": "IN",
    "area_name": "Johnson County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18085",
+   "fips": 18085,
    "state": "IN",
    "area_name": "Kosciusko County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18095",
+   "fips": 18095,
    "state": "IN",
    "area_name": "Madison County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18097",
+   "fips": 18097,
    "state": "IN",
    "area_name": "Marion County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18103",
+   "fips": 18103,
    "state": "IN",
    "area_name": "Miami County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18107",
+   "fips": 18107,
    "state": "IN",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18117",
+   "fips": 18117,
    "state": "IN",
    "area_name": "Orange County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18121",
+   "fips": 18121,
    "state": "IN",
    "area_name": "Parke County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18141",
+   "fips": 18141,
    "state": "IN",
    "area_name": "St. Joseph County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18163",
+   "fips": 18163,
    "state": "IN",
    "area_name": "Vanderburgh County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18177",
+   "fips": 18177,
    "state": "IN",
    "area_name": "Wayne County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18129",
+   "fips": 18129,
    "state": "IN",
    "area_name": "Posey County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "21125",
+   "fips": 21125,
    "state": "KY",
    "area_name": "Laurel County",
    "bachelorsOrHigher": "MIBOR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12087",
+   "fips": 12087,
    "state": "FL",
    "area_name": "Monroe County",
    "bachelorsOrHigher": "Miami Realtors",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6017",
+   "fips": 6017,
    "state": "CA",
    "area_name": "El Dorado County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6061",
+   "fips": 6061,
    "state": "CA",
    "area_name": "Placer County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6077",
+   "fips": 6077,
    "state": "CA",
    "area_name": "San Joaquin County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6099",
+   "fips": 6099,
    "state": "CA",
    "area_name": "Stanislaus County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6101",
+   "fips": 6101,
    "state": "CA",
    "area_name": "Sutter County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6113",
+   "fips": 6113,
    "state": "CA",
    "area_name": "Yolo County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6039",
+   "fips": 6039,
    "state": "CA",
    "area_name": "Madera County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6041",
+   "fips": 6041,
    "state": "CA",
    "area_name": "Marin County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "BAREIS"
  },
  {
-   "fips": "6095",
+   "fips": 6095,
    "state": "CA",
    "area_name": "Solano County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "BAREIS"
  },
  {
-   "fips": "6035",
+   "fips": 6035,
    "state": "CA",
    "area_name": "Lassen County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6109",
+   "fips": 6109,
    "state": "CA",
    "area_name": "Tuolumne County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29189",
+   "fips": 29189,
    "state": "MO",
    "area_name": "St. Louis County",
    "bachelorsOrHigher": "MARIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "28033",
+   "fips": 28033,
    "state": "MS",
    "area_name": "DeSoto County",
    "bachelorsOrHigher": "MAAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47047",
+   "fips": 47047,
    "state": "TN",
    "area_name": "Fayette County",
    "bachelorsOrHigher": "MAAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "47157",
+   "fips": 47157,
    "state": "TN",
    "area_name": "Shelby County",
    "bachelorsOrHigher": "MAAR MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48453",
+   "fips": 48453,
    "state": "TX",
    "area_name": "Travis County",
    "bachelorsOrHigher": "LA Basin",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "8013",
+   "fips": 8013,
    "state": "CO",
    "area_name": "Boulder County",
    "bachelorsOrHigher": "IRES",
    "bachelorsOrHigher2": "REColorado"
  },
  {
-   "fips": "8037",
+   "fips": 8037,
    "state": "CO",
    "area_name": "Eagle County",
    "bachelorsOrHigher": "IRES",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16001",
+   "fips": 16001,
    "state": "ID",
    "area_name": "Ada County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16003",
+   "fips": 16003,
    "state": "ID",
    "area_name": "Adams County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16005",
+   "fips": 16005,
    "state": "ID",
    "area_name": "Bannock County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16027",
+   "fips": 16027,
    "state": "ID",
    "area_name": "Canyon County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16031",
+   "fips": 16031,
    "state": "ID",
    "area_name": "Cassia County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16049",
+   "fips": 16049,
    "state": "ID",
    "area_name": "Idaho County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16053",
+   "fips": 16053,
    "state": "ID",
    "area_name": "Jerome County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16075",
+   "fips": 16075,
    "state": "ID",
    "area_name": "Payette County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "16083",
+   "fips": 16083,
    "state": "ID",
    "area_name": "Twin Falls County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "18009",
+   "fips": 18009,
    "state": "IN",
    "area_name": "Blackford County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20091",
+   "fips": 20091,
    "state": "KS",
    "area_name": "Johnson County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "49003",
+   "fips": 49003,
    "state": "UT",
    "area_name": "Box Elder County",
    "bachelorsOrHigher": "IMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20045",
+   "fips": 20045,
    "state": "KS",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20061",
+   "fips": 20061,
    "state": "KS",
    "area_name": "Geary County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20087",
+   "fips": 20087,
    "state": "KS",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20103",
+   "fips": 20103,
    "state": "KS",
    "area_name": "Leavenworth County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20107",
+   "fips": 20107,
    "state": "KS",
    "area_name": "Linn County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20121",
+   "fips": 20121,
    "state": "KS",
    "area_name": "Miami County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20161",
+   "fips": 20161,
    "state": "KS",
    "area_name": "Riley County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "20209",
+   "fips": 20209,
    "state": "KS",
    "area_name": "Wyandotte County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29003",
+   "fips": 29003,
    "state": "MO",
    "area_name": "Andrew County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29021",
+   "fips": 29021,
    "state": "MO",
    "area_name": "Buchanan County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29037",
+   "fips": 29037,
    "state": "MO",
    "area_name": "Cass County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29047",
+   "fips": 29047,
    "state": "MO",
    "area_name": "Clay County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29053",
+   "fips": 29053,
    "state": "MO",
    "area_name": "Cooper County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29065",
+   "fips": 29065,
    "state": "MO",
    "area_name": "Dent County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29095",
+   "fips": 29095,
    "state": "MO",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29101",
+   "fips": 29101,
    "state": "MO",
    "area_name": "Johnson County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29113",
+   "fips": 29113,
    "state": "MO",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29165",
+   "fips": 29165,
    "state": "MO",
    "area_name": "Platte County",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "29510",
+   "fips": 29510,
    "state": "MO",
    "area_name": "St. Louis city",
    "bachelorsOrHigher": "Heartland",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48015",
+   "fips": 48015,
    "state": "TX",
    "area_name": "Austin County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48039",
+   "fips": 48039,
    "state": "TX",
    "area_name": "Brazoria County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48041",
+   "fips": 48041,
    "state": "TX",
    "area_name": "Brazos County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48157",
+   "fips": 48157,
    "state": "TX",
    "area_name": "Fort Bend County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48167",
+   "fips": 48167,
    "state": "TX",
    "area_name": "Galveston County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48185",
+   "fips": 48185,
    "state": "TX",
    "area_name": "Grimes County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48201",
+   "fips": 48201,
    "state": "TX",
    "area_name": "Harris County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48225",
+   "fips": 48225,
    "state": "TX",
    "area_name": "Houston County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48339",
+   "fips": 48339,
    "state": "TX",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48373",
+   "fips": 48373,
    "state": "TX",
    "area_name": "Polk County",
    "bachelorsOrHigher": "HARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22051",
+   "fips": 22051,
    "state": "LA",
    "area_name": "Jefferson Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22071",
+   "fips": 22071,
    "state": "LA",
    "area_name": "Orleans Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22075",
+   "fips": 22075,
    "state": "LA",
    "area_name": "Plaquemines Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22087",
+   "fips": 22087,
    "state": "LA",
    "area_name": "St. Bernard Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22089",
+   "fips": 22089,
    "state": "LA",
    "area_name": "St. Charles Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22103",
+   "fips": 22103,
    "state": "LA",
    "area_name": "St. Tammany Parish",
    "bachelorsOrHigher": "GSREIN MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32003",
+   "fips": 32003,
    "state": "NV",
    "area_name": "Clark County",
    "bachelorsOrHigher": "GLVAR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32023",
+   "fips": 32023,
    "state": "NV",
    "area_name": "Nye County",
    "bachelorsOrHigher": "GLVAR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "32031",
+   "fips": 32031,
    "state": "NV",
    "area_name": "Washoe County",
    "bachelorsOrHigher": "GLVAR",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22005",
+   "fips": 22005,
    "state": "LA",
    "area_name": "Ascension Parish",
    "bachelorsOrHigher": "GBRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22033",
+   "fips": 22033,
    "state": "LA",
    "area_name": "East Baton Rouge Parish",
    "bachelorsOrHigher": "GBRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "22063",
+   "fips": 22063,
    "state": "LA",
    "area_name": "Livingston Parish",
    "bachelorsOrHigher": "GBRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13013",
+   "fips": 13013,
    "state": "GA",
    "area_name": "Barrow County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13015",
+   "fips": 13015,
    "state": "GA",
    "area_name": "Bartow County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13055",
+   "fips": 13055,
    "state": "GA",
    "area_name": "Chattooga County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13057",
+   "fips": 13057,
    "state": "GA",
    "area_name": "Cherokee County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13067",
+   "fips": 13067,
    "state": "GA",
    "area_name": "Cobb County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13115",
+   "fips": 13115,
    "state": "GA",
    "area_name": "Floyd County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13121",
+   "fips": 13121,
    "state": "GA",
    "area_name": "Fulton County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13143",
+   "fips": 13143,
    "state": "GA",
    "area_name": "Haralson County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13157",
+   "fips": 13157,
    "state": "GA",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13223",
+   "fips": 13223,
    "state": "GA",
    "area_name": "Paulding County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13117",
+   "fips": 13117,
    "state": "GA",
    "area_name": "Forsyth County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13035",
+   "fips": 13035,
    "state": "GA",
    "area_name": "Butts County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13045",
+   "fips": 13045,
    "state": "GA",
    "area_name": "Carroll County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13051",
+   "fips": 13051,
    "state": "GA",
    "area_name": "Chatham County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13059",
+   "fips": 13059,
    "state": "GA",
    "area_name": "Clarke County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13063",
+   "fips": 13063,
    "state": "GA",
    "area_name": "Clayton County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13077",
+   "fips": 13077,
    "state": "GA",
    "area_name": "Coweta County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13113",
+   "fips": 13113,
    "state": "GA",
    "area_name": "Fayette County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13131",
+   "fips": 13131,
    "state": "GA",
    "area_name": "Grady County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13151",
+   "fips": 13151,
    "state": "GA",
    "area_name": "Henry County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13153",
+   "fips": 13153,
    "state": "GA",
    "area_name": "Houston County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13171",
+   "fips": 13171,
    "state": "GA",
    "area_name": "Lamar County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13215",
+   "fips": 13215,
    "state": "GA",
    "area_name": "Muscogee County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13231",
+   "fips": 13231,
    "state": "GA",
    "area_name": "Pike County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13277",
+   "fips": 13277,
    "state": "GA",
    "area_name": "Tift County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13313",
+   "fips": 13313,
    "state": "GA",
    "area_name": "Whitfield County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "13001",
+   "fips": 13001,
    "state": "GA",
    "area_name": "Appling County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "45013",
+   "fips": 45013,
    "state": "SC",
    "area_name": "Beaufort County",
    "bachelorsOrHigher": "GAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1007",
+   "fips": 1007,
    "state": "AL",
    "area_name": "Bibb County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1015",
+   "fips": 1015,
    "state": "AL",
    "area_name": "Calhoun County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1027",
+   "fips": 1027,
    "state": "AL",
    "area_name": "Clay County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1073",
+   "fips": 1073,
    "state": "AL",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51041",
+   "fips": 51041,
    "state": "VA",
    "area_name": "Chesterfield County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51075",
+   "fips": 51075,
    "state": "VA",
    "area_name": "Goochland County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51085",
+   "fips": 51085,
    "state": "VA",
    "area_name": "Hanover County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51087",
+   "fips": 51087,
    "state": "VA",
    "area_name": "Henrico County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51149",
+   "fips": 51149,
    "state": "VA",
    "area_name": "Prince George County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51760",
+   "fips": 51760,
    "state": "VA",
    "area_name": "Richmond city",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51179",
+   "fips": 51179,
    "state": "VA",
    "area_name": "Stafford County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "51510",
+   "fips": 51510,
    "state": "VA",
    "area_name": "Alexandria city",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51049",
+   "fips": 51049,
    "state": "VA",
    "area_name": "Cumberland County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51095",
+   "fips": 51095,
    "state": "VA",
    "area_name": "James City County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "48091",
+   "fips": 48091,
    "state": "TX",
    "area_name": "Comal County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6007",
+   "fips": 6007,
    "state": "CA",
    "area_name": "Butte County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6033",
+   "fips": 6033,
    "state": "CA",
    "area_name": "Lake County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6037",
+   "fips": 6037,
    "state": "CA",
    "area_name": "Los Angeles County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6059",
+   "fips": 6059,
    "state": "CA",
    "area_name": "Orange County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6065",
+   "fips": 6065,
    "state": "CA",
    "area_name": "Riverside County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6071",
+   "fips": 6071,
    "state": "CA",
    "area_name": "San Bernardino County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6079",
+   "fips": 6079,
    "state": "CA",
    "area_name": "San Luis Obispo County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6047",
+   "fips": 6047,
    "state": "CA",
    "area_name": "Merced County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6111",
+   "fips": 6111,
    "state": "CA",
    "area_name": "Ventura County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6067",
+   "fips": 6067,
    "state": "CA",
    "area_name": "MetroList County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6029",
+   "fips": 6029,
    "state": "CA",
    "area_name": "Kern County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "40109",
+   "fips": 40109,
    "state": "OK",
    "area_name": "Oklahoma County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39015",
+   "fips": 39015,
    "state": "OH",
    "area_name": "Brown County",
    "bachelorsOrHigher": "CINCYMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39025",
+   "fips": 39025,
    "state": "OH",
    "area_name": "Clermont County",
    "bachelorsOrHigher": "CINCYMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39165",
+   "fips": 39165,
    "state": "OH",
    "area_name": "Warren County",
    "bachelorsOrHigher": "CINCYMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "39027",
+   "fips": 39027,
    "state": "OH",
    "area_name": "Clinton County",
    "bachelorsOrHigher": "CINCYMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6001",
+   "fips": 6001,
    "state": "CA",
    "area_name": "Alameda County",
    "bachelorsOrHigher": "CCARMLS",
    "bachelorsOrHigher2": "BEAR"
  },
  {
-   "fips": "6013",
+   "fips": 6013,
    "state": "CA",
    "area_name": "Contra Costa County",
    "bachelorsOrHigher": "CCARMLS",
    "bachelorsOrHigher2": "BEAR"
  },
  {
-   "fips": "12065",
+   "fips": 12065,
    "state": "FL",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12073",
+   "fips": 12073,
    "state": "FL",
    "area_name": "Leon County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12013",
+   "fips": 12013,
    "state": "FL",
    "area_name": "Calhoun County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51101",
+   "fips": 51101,
    "state": "VA",
    "area_name": "King William County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51159",
+   "fips": 51159,
    "state": "VA",
    "area_name": "Richmond County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "11001",
+   "fips": 11001,
    "state": "DC",
    "area_name": "District of Columbia",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "10003",
+   "fips": 10003,
    "state": "DE",
    "area_name": "New Castle County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "10001",
+   "fips": 10001,
    "state": "DE",
    "area_name": "Kent County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "10005",
+   "fips": 10005,
    "state": "DE",
    "area_name": "Sussex County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24015",
+   "fips": 24015,
    "state": "MD",
    "area_name": "Cecil County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24019",
+   "fips": 24019,
    "state": "MD",
    "area_name": "Dorchester County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24021",
+   "fips": 24021,
    "state": "MD",
    "area_name": "Frederick County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24025",
+   "fips": 24025,
    "state": "MD",
    "area_name": "Harford County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24045",
+   "fips": 24045,
    "state": "MD",
    "area_name": "Wicomico County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24003",
+   "fips": 24003,
    "state": "MD",
    "area_name": "Anne Arundel County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24009",
+   "fips": 24009,
    "state": "MD",
    "area_name": "Calvert County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24011",
+   "fips": 24011,
    "state": "MD",
    "area_name": "Caroline County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24013",
+   "fips": 24013,
    "state": "MD",
    "area_name": "Carroll County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24017",
+   "fips": 24017,
    "state": "MD",
    "area_name": "Charles County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24023",
+   "fips": 24023,
    "state": "MD",
    "area_name": "Garrett County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24027",
+   "fips": 24027,
    "state": "MD",
    "area_name": "Howard County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24031",
+   "fips": 24031,
    "state": "MD",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24033",
+   "fips": 24033,
    "state": "MD",
    "area_name": "Prince George's County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24037",
+   "fips": 24037,
    "state": "MD",
    "area_name": "St. Mary's County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24041",
+   "fips": 24041,
    "state": "MD",
    "area_name": "Talbot County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24043",
+   "fips": 24043,
    "state": "MD",
    "area_name": "Washington County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34005",
+   "fips": 34005,
    "state": "NJ",
    "area_name": "Burlington County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34007",
+   "fips": 34007,
    "state": "NJ",
    "area_name": "Camden County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34015",
+   "fips": 34015,
    "state": "NJ",
    "area_name": "Gloucester County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34021",
+   "fips": 34021,
    "state": "NJ",
    "area_name": "Mercer County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34023",
+   "fips": 34023,
    "state": "NJ",
    "area_name": "Middlesex County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34029",
+   "fips": 34029,
    "state": "NJ",
    "area_name": "Ocean County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42041",
+   "fips": 42041,
    "state": "PA",
    "area_name": "Cumberland County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42001",
+   "fips": 42001,
    "state": "PA",
    "area_name": "Adams County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42055",
+   "fips": 42055,
    "state": "PA",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42133",
+   "fips": 42133,
    "state": "PA",
    "area_name": "York County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42011",
+   "fips": 42011,
    "state": "PA",
    "area_name": "Berks County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42017",
+   "fips": 42017,
    "state": "PA",
    "area_name": "Bucks County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42029",
+   "fips": 42029,
    "state": "PA",
    "area_name": "Chester County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42045",
+   "fips": 42045,
    "state": "PA",
    "area_name": "Delaware County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42071",
+   "fips": 42071,
    "state": "PA",
    "area_name": "Lancaster County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42075",
+   "fips": 42075,
    "state": "PA",
    "area_name": "Lebanon County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42091",
+   "fips": 42091,
    "state": "PA",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42101",
+   "fips": 42101,
    "state": "PA",
    "area_name": "Philadelphia County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42107",
+   "fips": 42107,
    "state": "PA",
    "area_name": "Schuylkill County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51013",
+   "fips": 51013,
    "state": "VA",
    "area_name": "Arlington County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51033",
+   "fips": 51033,
    "state": "VA",
    "area_name": "Caroline County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51043",
+   "fips": 51043,
    "state": "VA",
    "area_name": "Clarke County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51047",
+   "fips": 51047,
    "state": "VA",
    "area_name": "Culpeper County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51059",
+   "fips": 51059,
    "state": "VA",
    "area_name": "Fairfax County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51061",
+   "fips": 51061,
    "state": "VA",
    "area_name": "Fauquier County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51099",
+   "fips": 51099,
    "state": "VA",
    "area_name": "King George County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51107",
+   "fips": 51107,
    "state": "VA",
    "area_name": "Loudoun County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51137",
+   "fips": 51137,
    "state": "VA",
    "area_name": "Orange County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51139",
+   "fips": 51139,
    "state": "VA",
    "area_name": "Page County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51153",
+   "fips": 51153,
    "state": "VA",
    "area_name": "Prince William County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51177",
+   "fips": 51177,
    "state": "VA",
    "area_name": "Spotsylvania County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51187",
+   "fips": 51187,
    "state": "VA",
    "area_name": "Warren County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51630",
+   "fips": 51630,
    "state": "VA",
    "area_name": "Fredericksburg city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "54003",
+   "fips": 54003,
    "state": "WV",
    "area_name": "Berkeley County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "54023",
+   "fips": 54023,
    "state": "WV",
    "area_name": "Grant County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "54027",
+   "fips": 54027,
    "state": "WV",
    "area_name": "Hampshire County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24005",
+   "fips": 24005,
    "state": "MD",
    "area_name": "Baltimore County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24035",
+   "fips": 24035,
    "state": "MD",
    "area_name": "Queen Anne's County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24510",
+   "fips": 24510,
    "state": "MD",
    "area_name": "Baltimore city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "24001",
+   "fips": 24001,
    "state": "MD",
    "area_name": "Allegany County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34003",
+   "fips": 34003,
    "state": "NJ",
    "area_name": "Bergen County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34001",
+   "fips": 34001,
    "state": "NJ",
    "area_name": "Atlantic County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34009",
+   "fips": 34009,
    "state": "NJ",
    "area_name": "Cape May County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34013",
+   "fips": 34013,
    "state": "NJ",
    "area_name": "Essex County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34025",
+   "fips": 34025,
    "state": "NJ",
    "area_name": "Monmouth County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34027",
+   "fips": 34027,
    "state": "NJ",
    "area_name": "Morris County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34031",
+   "fips": 34031,
    "state": "NJ",
    "area_name": "Passaic County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "34039",
+   "fips": 34039,
    "state": "NJ",
    "area_name": "Union County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42021",
+   "fips": 42021,
    "state": "PA",
    "area_name": "Cambria County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42003",
+   "fips": 42003,
    "state": "PA",
    "area_name": "Allegheny County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42049",
+   "fips": 42049,
    "state": "PA",
    "area_name": "Erie County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42069",
+   "fips": 42069,
    "state": "PA",
    "area_name": "Lackawanna County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42079",
+   "fips": 42079,
    "state": "PA",
    "area_name": "Luzerne County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "42129",
+   "fips": 42129,
    "state": "PA",
    "area_name": "Westmoreland County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51011",
+   "fips": 51011,
    "state": "VA",
    "area_name": "Appomattox County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51015",
+   "fips": 51015,
    "state": "VA",
    "area_name": "Augusta County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51023",
+   "fips": 51023,
    "state": "VA",
    "area_name": "Botetourt County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51550",
+   "fips": 51550,
    "state": "VA",
    "area_name": "Chesapeake city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51069",
+   "fips": 51069,
    "state": "VA",
    "area_name": "Frederick County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51685",
+   "fips": 51685,
    "state": "VA",
    "area_name": "Manassas Park city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51700",
+   "fips": 51700,
    "state": "VA",
    "area_name": "Newport News city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51161",
+   "fips": 51161,
    "state": "VA",
    "area_name": "Roanoke County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51810",
+   "fips": 51810,
    "state": "VA",
    "area_name": "Virginia Beach city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51193",
+   "fips": 51193,
    "state": "VA",
    "area_name": "Westmoreland County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "51770",
+   "fips": 51770,
    "state": "VA",
    "area_name": "Roanoke city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12099",
+   "fips": 12099,
    "state": "FL",
    "area_name": "Palm Beach County",
    "bachelorsOrHigher": "Beaches MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12111",
+   "fips": 12111,
    "state": "FL",
    "area_name": "St. Lucie County",
    "bachelorsOrHigher": "Beaches MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12005",
+   "fips": 12005,
    "state": "FL",
    "area_name": "Bay County",
    "bachelorsOrHigher": "Beaches MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "12061",
+   "fips": 12061,
    "state": "FL",
    "area_name": "Indian River County",
    "bachelorsOrHigher": "Beaches MLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6075",
+   "fips": 6075,
    "state": "CA",
    "area_name": "San Francisco County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "SFARMLS"
  },
  {
-   "fips": "6053",
+   "fips": 6053,
    "state": "CA",
    "area_name": "Monterey County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6069",
+   "fips": 6069,
    "state": "CA",
    "area_name": "San Benito County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6081",
+   "fips": 6081,
    "state": "CA",
    "area_name": "San Mateo County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6085",
+   "fips": 6085,
    "state": "CA",
    "area_name": "Santa Clara County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6087",
+   "fips": 6087,
    "state": "CA",
    "area_name": "Santa Cruz County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6045",
+   "fips": 6045,
    "state": "CA",
    "area_name": "Mendocino County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6097",
+   "fips": 6097,
    "state": "CA",
    "area_name": "Sonoma County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6055",
+   "fips": 6055,
    "state": "CA",
    "area_name": "Napa County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "6093",
+   "fips": 6093,
    "state": "CA",
    "area_name": "Siskiyou County",
    "bachelorsOrHigher": "BAREIS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4009",
+   "fips": 4009,
    "state": "AZ",
    "area_name": "Graham County",
    "bachelorsOrHigher": "ARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4013",
+   "fips": 4013,
    "state": "AZ",
    "area_name": "Maricopa County",
    "bachelorsOrHigher": "ARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4015",
+   "fips": 4015,
    "state": "AZ",
    "area_name": "Mohave County",
    "bachelorsOrHigher": "ARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4021",
+   "fips": 4021,
    "state": "AZ",
    "area_name": "Pinal County",
    "bachelorsOrHigher": "ARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4025",
+   "fips": 4025,
    "state": "AZ",
    "area_name": "Yavapai County",
    "bachelorsOrHigher": "ARMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1001",
+   "fips": 1001,
    "state": "AL",
    "area_name": "Autauga County",
    "bachelorsOrHigher": "ALAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1017",
+   "fips": 1017,
    "state": "AL",
    "area_name": "Chambers County",
    "bachelorsOrHigher": "ALAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1051",
+   "fips": 1051,
    "state": "AL",
    "area_name": "Elmore County",
    "bachelorsOrHigher": "ALAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "1101",
+   "fips": 1101,
    "state": "AL",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "ALAMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "2122",
+   "fips": 2122,
    "state": "AK",
    "area_name": "Kenai Peninsula Borough",
    "bachelorsOrHigher": "AKMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "2170",
+   "fips": 2170,
    "state": "AK",
    "area_name": "Matanuska-Susitna Borough",
    "bachelorsOrHigher": "AKMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "2020",
+   "fips": 2020,
    "state": "AK",
    "area_name": "Anchorage Municipality",
    "bachelorsOrHigher": "AKMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "*****",
+   "fips": *****",
    "state": "AK",
    "area_name": "",
    "bachelorsOrHigher": "AKMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31025",
+   "fips": 31025,
    "state": "NE",
    "area_name": "Cass County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31053",
+   "fips": 31053,
    "state": "NE",
    "area_name": "Dodge County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31055",
+   "fips": 31055,
    "state": "NE",
    "area_name": "Douglas County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31079",
+   "fips": 31079,
    "state": "NE",
    "area_name": "Hall County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31109",
+   "fips": 31109,
    "state": "NE",
    "area_name": "Lancaster County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31153",
+   "fips": 31153,
    "state": "NE",
    "area_name": "Sarpy County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "31177",
+   "fips": 31177,
    "state": "NE",
    "area_name": "Washington County",
    "bachelorsOrHigher": " GPRMLS",
    "bachelorsOrHigher2": ""
  },
  {
-   "fips": "4012",
+   "fips": 4012,
    "state": "AZ",
    "area_name": "La Paz County",
    "bachelorsOrHigher": "WARDEX",
    "bachelorsOrHigher2": "WARDEX"
  },
  {
-   "fips": "37037",
+   "fips": 37037,
    "state": "NC",
    "area_name": "Chatham County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37063",
+   "fips": 37063,
    "state": "NC",
    "area_name": "Durham County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37069",
+   "fips": 37069,
    "state": "NC",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37077",
+   "fips": 37077,
    "state": "NC",
    "area_name": "Granville County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37083",
+   "fips": 37083,
    "state": "NC",
    "area_name": "Halifax County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37085",
+   "fips": 37085,
    "state": "NC",
    "area_name": "Harnett County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37101",
+   "fips": 37101,
    "state": "NC",
    "area_name": "Johnston County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37105",
+   "fips": 37105,
    "state": "NC",
    "area_name": "Lee County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37127",
+   "fips": 37127,
    "state": "NC",
    "area_name": "Nash County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37135",
+   "fips": 37135,
    "state": "NC",
    "area_name": "Orange County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37145",
+   "fips": 37145,
    "state": "NC",
    "area_name": "Person County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37181",
+   "fips": 37181,
    "state": "NC",
    "area_name": "Vance County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37183",
+   "fips": 37183,
    "state": "NC",
    "area_name": "Wake County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37185",
+   "fips": 37185,
    "state": "NC",
    "area_name": "Warren County",
    "bachelorsOrHigher": "Triangle MLS",
    "bachelorsOrHigher2": "Triangle MLS"
  },
  {
-   "fips": "37001",
+   "fips": 37001,
    "state": "NC",
    "area_name": "Alamance County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "37059",
+   "fips": 37059,
    "state": "NC",
    "area_name": "Davie County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "37157",
+   "fips": 37157,
    "state": "NC",
    "area_name": "Rockingham County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "37171",
+   "fips": 37171,
    "state": "NC",
    "area_name": "Surry County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "37193",
+   "fips": 37193,
    "state": "NC",
    "area_name": "Wilkes County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "37197",
+   "fips": 37197,
    "state": "NC",
    "area_name": "Yadkin County",
    "bachelorsOrHigher": "Triad",
    "bachelorsOrHigher2": "Triad"
  },
  {
-   "fips": "35001",
+   "fips": 35001,
    "state": "NM",
    "area_name": "Bernalillo County",
    "bachelorsOrHigher": "SWMLS",
    "bachelorsOrHigher2": "SWMLS"
  },
  {
-   "fips": "35043",
+   "fips": 35043,
    "state": "NM",
    "area_name": "Sandoval County",
    "bachelorsOrHigher": "SWMLS",
    "bachelorsOrHigher2": "SWMLS"
  },
  {
-   "fips": "35061",
+   "fips": 35061,
    "state": "NM",
    "area_name": "Valencia County",
    "bachelorsOrHigher": "SWMLS",
    "bachelorsOrHigher2": "SWMLS"
  },
  {
-   "fips": "12117",
+   "fips": 12117,
    "state": "FL",
    "area_name": "Seminole County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": "Stellar"
  },
  {
-   "fips": "12097",
+   "fips": 12097,
    "state": "FL",
    "area_name": "Osceola County",
    "bachelorsOrHigher": "Stellar",
    "bachelorsOrHigher2": "Stellar"
  },
  {
-   "fips": "44005",
+   "fips": 44005,
    "state": "RI",
    "area_name": "Newport County",
    "bachelorsOrHigher": "Statewide MLS",
    "bachelorsOrHigher2": "Statewide MLS"
  },
  {
-   "fips": "9015",
+   "fips": 9015,
    "state": "CT",
    "area_name": "Windham County",
    "bachelorsOrHigher": "SmartMLS",
    "bachelorsOrHigher2": "SmartMLS"
  },
  {
-   "fips": "48163",
+   "fips": 48163,
    "state": "TX",
    "area_name": "Frio County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48255",
+   "fips": 48255,
    "state": "TX",
    "area_name": "Karnes County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48259",
+   "fips": 48259,
    "state": "TX",
    "area_name": "Kendall County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48283",
+   "fips": 48283,
    "state": "TX",
    "area_name": "La Salle County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48311",
+   "fips": 48311,
    "state": "TX",
    "area_name": "McMullen County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48463",
+   "fips": 48463,
    "state": "TX",
    "area_name": "Uvalde County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "48493",
+   "fips": 48493,
    "state": "TX",
    "area_name": "Wilson County",
    "bachelorsOrHigher": "SABOR",
    "bachelorsOrHigher2": "SABOR"
  },
  {
-   "fips": "41007",
+   "fips": 41007,
    "state": "OR",
    "area_name": "Clatsop County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41009",
+   "fips": 41009,
    "state": "OR",
    "area_name": "Columbia County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41011",
+   "fips": 41011,
    "state": "OR",
    "area_name": "Coos County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41015",
+   "fips": 41015,
    "state": "OR",
    "area_name": "Curry County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41021",
+   "fips": 41021,
    "state": "OR",
    "area_name": "Gilliam County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41023",
+   "fips": 41023,
    "state": "OR",
    "area_name": "Grant County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41053",
+   "fips": 41053,
    "state": "OR",
    "area_name": "Polk County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41055",
+   "fips": 41055,
    "state": "OR",
    "area_name": "Sherman County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41061",
+   "fips": 41061,
    "state": "OR",
    "area_name": "Union County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41063",
+   "fips": 41063,
    "state": "OR",
    "area_name": "Wallowa County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "41069",
+   "fips": 41069,
    "state": "OR",
    "area_name": "Wheeler County",
    "bachelorsOrHigher": "RMLS",
    "bachelorsOrHigher2": "RMLS"
  },
  {
-   "fips": "8014",
+   "fips": 8014,
    "state": "CO",
    "area_name": "Broomfield County",
    "bachelorsOrHigher": "REColorado",
    "bachelorsOrHigher2": "REColorado"
  },
  {
-   "fips": "8039",
+   "fips": 8039,
    "state": "CO",
    "area_name": "Elbert County",
    "bachelorsOrHigher": "REColorado",
    "bachelorsOrHigher2": "REColorado"
  },
  {
-   "fips": "8047",
+   "fips": 8047,
    "state": "CO",
    "area_name": "Gilpin County",
    "bachelorsOrHigher": "REColorado",
    "bachelorsOrHigher2": "REColorado"
  },
  {
-   "fips": "8093",
+   "fips": 8093,
    "state": "CO",
    "area_name": "Park County",
    "bachelorsOrHigher": "REColorado",
    "bachelorsOrHigher2": "REColorado"
  },
  {
-   "fips": "22001",
+   "fips": 22001,
    "state": "LA",
    "area_name": "Acadia Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "22045",
+   "fips": 22045,
    "state": "LA",
    "area_name": "Iberia Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "22055",
+   "fips": 22055,
    "state": "LA",
    "area_name": "Lafayette Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "22097",
+   "fips": 22097,
    "state": "LA",
    "area_name": "St. Landry Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "22101",
+   "fips": 22101,
    "state": "LA",
    "area_name": "St. Mary Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "22113",
+   "fips": 22113,
    "state": "LA",
    "area_name": "Vermilion Parish",
    "bachelorsOrHigher": "Realtor Association of Arcadiana (RAA)",
    "bachelorsOrHigher2": "Realtor Association of Arcadiana (RAA)"
  },
  {
-   "fips": "26125",
+   "fips": 26125,
    "state": "MI",
    "area_name": "Oakland County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26079",
+   "fips": 26079,
    "state": "MI",
    "area_name": "Kalkaska County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26001",
+   "fips": 26001,
    "state": "MI",
    "area_name": "Alcona County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26003",
+   "fips": 26003,
    "state": "MI",
    "area_name": "Alger County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26005",
+   "fips": 26005,
    "state": "MI",
    "area_name": "Allegan County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26007",
+   "fips": 26007,
    "state": "MI",
    "area_name": "Alpena County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26009",
+   "fips": 26009,
    "state": "MI",
    "area_name": "Antrim County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26011",
+   "fips": 26011,
    "state": "MI",
    "area_name": "Arenac County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26013",
+   "fips": 26013,
    "state": "MI",
    "area_name": "Baraga County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26015",
+   "fips": 26015,
    "state": "MI",
    "area_name": "Barry County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26017",
+   "fips": 26017,
    "state": "MI",
    "area_name": "Bay County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26019",
+   "fips": 26019,
    "state": "MI",
    "area_name": "Benzie County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26021",
+   "fips": 26021,
    "state": "MI",
    "area_name": "Berrien County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26023",
+   "fips": 26023,
    "state": "MI",
    "area_name": "Branch County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26025",
+   "fips": 26025,
    "state": "MI",
    "area_name": "Calhoun County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26027",
+   "fips": 26027,
    "state": "MI",
    "area_name": "Cass County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26029",
+   "fips": 26029,
    "state": "MI",
    "area_name": "Charlevoix County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26031",
+   "fips": 26031,
    "state": "MI",
    "area_name": "Cheboygan County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26033",
+   "fips": 26033,
    "state": "MI",
    "area_name": "Chippewa County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26035",
+   "fips": 26035,
    "state": "MI",
    "area_name": "Clare County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26039",
+   "fips": 26039,
    "state": "MI",
    "area_name": "Crawford County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26041",
+   "fips": 26041,
    "state": "MI",
    "area_name": "Delta County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26043",
+   "fips": 26043,
    "state": "MI",
    "area_name": "Dickinson County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26047",
+   "fips": 26047,
    "state": "MI",
    "area_name": "Emmet County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26051",
+   "fips": 26051,
    "state": "MI",
    "area_name": "Gladwin County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26053",
+   "fips": 26053,
    "state": "MI",
    "area_name": "Gogebic County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26055",
+   "fips": 26055,
    "state": "MI",
    "area_name": "Grand Traverse County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26057",
+   "fips": 26057,
    "state": "MI",
    "area_name": "Gratiot County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26059",
+   "fips": 26059,
    "state": "MI",
    "area_name": "Hillsdale County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26061",
+   "fips": 26061,
    "state": "MI",
    "area_name": "Houghton County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26063",
+   "fips": 26063,
    "state": "MI",
    "area_name": "Huron County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26067",
+   "fips": 26067,
    "state": "MI",
    "area_name": "Ionia County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26069",
+   "fips": 26069,
    "state": "MI",
    "area_name": "Iosco County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26071",
+   "fips": 26071,
    "state": "MI",
    "area_name": "Iron County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26073",
+   "fips": 26073,
    "state": "MI",
    "area_name": "Isabella County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26075",
+   "fips": 26075,
    "state": "MI",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26077",
+   "fips": 26077,
    "state": "MI",
    "area_name": "Kalamazoo County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26083",
+   "fips": 26083,
    "state": "MI",
    "area_name": "Keweenaw County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26085",
+   "fips": 26085,
    "state": "MI",
    "area_name": "Lake County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26089",
+   "fips": 26089,
    "state": "MI",
    "area_name": "Leelanau County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26095",
+   "fips": 26095,
    "state": "MI",
    "area_name": "Luce County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26097",
+   "fips": 26097,
    "state": "MI",
    "area_name": "Mackinac County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26101",
+   "fips": 26101,
    "state": "MI",
    "area_name": "Manistee County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26103",
+   "fips": 26103,
    "state": "MI",
    "area_name": "Marquette County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26105",
+   "fips": 26105,
    "state": "MI",
    "area_name": "Mason County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26107",
+   "fips": 26107,
    "state": "MI",
    "area_name": "Mecosta County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26109",
+   "fips": 26109,
    "state": "MI",
    "area_name": "Menominee County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26111",
+   "fips": 26111,
    "state": "MI",
    "area_name": "Midland County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26113",
+   "fips": 26113,
    "state": "MI",
    "area_name": "Missaukee County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26119",
+   "fips": 26119,
    "state": "MI",
    "area_name": "Montmorency County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26121",
+   "fips": 26121,
    "state": "MI",
    "area_name": "Muskegon County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26123",
+   "fips": 26123,
    "state": "MI",
    "area_name": "Newaygo County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26127",
+   "fips": 26127,
    "state": "MI",
    "area_name": "Oceana County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26129",
+   "fips": 26129,
    "state": "MI",
    "area_name": "Ogemaw County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26131",
+   "fips": 26131,
    "state": "MI",
    "area_name": "Ontonagon County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26133",
+   "fips": 26133,
    "state": "MI",
    "area_name": "Osceola County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26135",
+   "fips": 26135,
    "state": "MI",
    "area_name": "Oscoda County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26137",
+   "fips": 26137,
    "state": "MI",
    "area_name": "Otsego County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26139",
+   "fips": 26139,
    "state": "MI",
    "area_name": "Ottawa County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26141",
+   "fips": 26141,
    "state": "MI",
    "area_name": "Presque Isle County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26143",
+   "fips": 26143,
    "state": "MI",
    "area_name": "Roscommon County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26145",
+   "fips": 26145,
    "state": "MI",
    "area_name": "Saginaw County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26153",
+   "fips": 26153,
    "state": "MI",
    "area_name": "Schoolcraft County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26157",
+   "fips": 26157,
    "state": "MI",
    "area_name": "Tuscola County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26159",
+   "fips": 26159,
    "state": "MI",
    "area_name": "Van Buren County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "26165",
+   "fips": 26165,
    "state": "MI",
    "area_name": "Wexford County",
    "bachelorsOrHigher": "Realcomp",
    "bachelorsOrHigher2": "Realcomp"
  },
  {
-   "fips": "12089",
+   "fips": 12089,
    "state": "FL",
    "area_name": "Nassau County",
    "bachelorsOrHigher": "Real MLS",
    "bachelorsOrHigher2": "Real MLS"
  },
  {
-   "fips": "12003",
+   "fips": 12003,
    "state": "FL",
    "area_name": "Baker County",
    "bachelorsOrHigher": "Real MLS",
    "bachelorsOrHigher2": "Real MLS"
  },
  {
-   "fips": "8119",
+   "fips": 8119,
    "state": "CO",
    "area_name": "Teller County",
    "bachelorsOrHigher": "PPAR",
    "bachelorsOrHigher2": "PPAR"
  },
  {
-   "fips": "4005",
+   "fips": 4005,
    "state": "AZ",
    "area_name": "Coconino County",
    "bachelorsOrHigher": "PAAR",
    "bachelorsOrHigher2": "PAAR"
  },
  {
-   "fips": "27005",
+   "fips": 27005,
    "state": "MN",
    "area_name": "Becker County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27011",
+   "fips": 27011,
    "state": "MN",
    "area_name": "Big Stone County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27015",
+   "fips": 27015,
    "state": "MN",
    "area_name": "Brown County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27017",
+   "fips": 27017,
    "state": "MN",
    "area_name": "Carlton County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27023",
+   "fips": 27023,
    "state": "MN",
    "area_name": "Chippewa County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27025",
+   "fips": 27025,
    "state": "MN",
    "area_name": "Chisago County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27027",
+   "fips": 27027,
    "state": "MN",
    "area_name": "Clay County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27029",
+   "fips": 27029,
    "state": "MN",
    "area_name": "Clearwater County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27031",
+   "fips": 27031,
    "state": "MN",
    "area_name": "Cook County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27033",
+   "fips": 27033,
    "state": "MN",
    "area_name": "Cottonwood County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27041",
+   "fips": 27041,
    "state": "MN",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27045",
+   "fips": 27045,
    "state": "MN",
    "area_name": "Fillmore County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27047",
+   "fips": 27047,
    "state": "MN",
    "area_name": "Freeborn County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27049",
+   "fips": 27049,
    "state": "MN",
    "area_name": "Goodhue County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27051",
+   "fips": 27051,
    "state": "MN",
    "area_name": "Grant County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27055",
+   "fips": 27055,
    "state": "MN",
    "area_name": "Houston County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27057",
+   "fips": 27057,
    "state": "MN",
    "area_name": "Hubbard County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27059",
+   "fips": 27059,
    "state": "MN",
    "area_name": "Isanti County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27063",
+   "fips": 27063,
    "state": "MN",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27069",
+   "fips": 27069,
    "state": "MN",
    "area_name": "Kittson County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27071",
+   "fips": 27071,
    "state": "MN",
    "area_name": "Koochiching County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27073",
+   "fips": 27073,
    "state": "MN",
    "area_name": "Lac qui Parle County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27075",
+   "fips": 27075,
    "state": "MN",
    "area_name": "Lake County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27077",
+   "fips": 27077,
    "state": "MN",
    "area_name": "Lake of the Woods County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27081",
+   "fips": 27081,
    "state": "MN",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27083",
+   "fips": 27083,
    "state": "MN",
    "area_name": "Lyon County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27087",
+   "fips": 27087,
    "state": "MN",
    "area_name": "Mahnomen County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27089",
+   "fips": 27089,
    "state": "MN",
    "area_name": "Marshall County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27091",
+   "fips": 27091,
    "state": "MN",
    "area_name": "Martin County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27093",
+   "fips": 27093,
    "state": "MN",
    "area_name": "Meeker County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27095",
+   "fips": 27095,
    "state": "MN",
    "area_name": "Mille Lacs County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27099",
+   "fips": 27099,
    "state": "MN",
    "area_name": "Mower County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27101",
+   "fips": 27101,
    "state": "MN",
    "area_name": "Murray County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27103",
+   "fips": 27103,
    "state": "MN",
    "area_name": "Nicollet County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27105",
+   "fips": 27105,
    "state": "MN",
    "area_name": "Nobles County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27107",
+   "fips": 27107,
    "state": "MN",
    "area_name": "Norman County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27111",
+   "fips": 27111,
    "state": "MN",
    "area_name": "Otter Tail County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27113",
+   "fips": 27113,
    "state": "MN",
    "area_name": "Pennington County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27115",
+   "fips": 27115,
    "state": "MN",
    "area_name": "Pine County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27117",
+   "fips": 27117,
    "state": "MN",
    "area_name": "Pipestone County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27119",
+   "fips": 27119,
    "state": "MN",
    "area_name": "Polk County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27121",
+   "fips": 27121,
    "state": "MN",
    "area_name": "Pope County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27125",
+   "fips": 27125,
    "state": "MN",
    "area_name": "Red Lake County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27127",
+   "fips": 27127,
    "state": "MN",
    "area_name": "Redwood County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27129",
+   "fips": 27129,
    "state": "MN",
    "area_name": "Renville County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27131",
+   "fips": 27131,
    "state": "MN",
    "area_name": "Rice County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27133",
+   "fips": 27133,
    "state": "MN",
    "area_name": "Rock County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27135",
+   "fips": 27135,
    "state": "MN",
    "area_name": "Roseau County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27141",
+   "fips": 27141,
    "state": "MN",
    "area_name": "Sherburne County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27143",
+   "fips": 27143,
    "state": "MN",
    "area_name": "Sibley County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27147",
+   "fips": 27147,
    "state": "MN",
    "area_name": "Steele County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27149",
+   "fips": 27149,
    "state": "MN",
    "area_name": "Stevens County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27151",
+   "fips": 27151,
    "state": "MN",
    "area_name": "Swift County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27153",
+   "fips": 27153,
    "state": "MN",
    "area_name": "Todd County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27155",
+   "fips": 27155,
    "state": "MN",
    "area_name": "Traverse County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27157",
+   "fips": 27157,
    "state": "MN",
    "area_name": "Wabasha County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27159",
+   "fips": 27159,
    "state": "MN",
    "area_name": "Wadena County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27161",
+   "fips": 27161,
    "state": "MN",
    "area_name": "Waseca County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27165",
+   "fips": 27165,
    "state": "MN",
    "area_name": "Watonwan County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27167",
+   "fips": 27167,
    "state": "MN",
    "area_name": "Wilkin County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27169",
+   "fips": 27169,
    "state": "MN",
    "area_name": "Winona County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "27173",
+   "fips": 27173,
    "state": "MN",
    "area_name": "Yellow Medicine County",
    "bachelorsOrHigher": "Northstar",
    "bachelorsOrHigher2": "Northstar"
  },
  {
-   "fips": "32019",
+   "fips": 32019,
    "state": "NV",
    "area_name": "Lyon County",
    "bachelorsOrHigher": "NNRMLS",
    "bachelorsOrHigher2": "NNRMLS"
  },
  {
-   "fips": "32510",
+   "fips": 32510,
    "state": "NV",
    "area_name": "Carson City",
    "bachelorsOrHigher": "NNRMLS",
    "bachelorsOrHigher2": "NNRMLS"
  },
  {
-   "fips": "21015",
+   "fips": 21015,
    "state": "KY",
    "area_name": "Boone County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21023",
+   "fips": 21023,
    "state": "KY",
    "area_name": "Bracken County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21037",
+   "fips": 21037,
    "state": "KY",
    "area_name": "Campbell County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21069",
+   "fips": 21069,
    "state": "KY",
    "area_name": "Fleming County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21077",
+   "fips": 21077,
    "state": "KY",
    "area_name": "Gallatin County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21081",
+   "fips": 21081,
    "state": "KY",
    "area_name": "Grant County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21117",
+   "fips": 21117,
    "state": "KY",
    "area_name": "Kenton County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21135",
+   "fips": 21135,
    "state": "KY",
    "area_name": "Lewis County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21161",
+   "fips": 21161,
    "state": "KY",
    "area_name": "Mason County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21187",
+   "fips": 21187,
    "state": "KY",
    "area_name": "Owen County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21191",
+   "fips": 21191,
    "state": "KY",
    "area_name": "Pendleton County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "21201",
+   "fips": 21201,
    "state": "KY",
    "area_name": "Robertson County",
    "bachelorsOrHigher": "NKMLS",
    "bachelorsOrHigher2": "NKMLS"
  },
  {
-   "fips": "1055",
+   "fips": 1055,
    "state": "AL",
    "area_name": "Etowah County",
    "bachelorsOrHigher": "NALMLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1079",
+   "fips": 1079,
    "state": "AL",
    "area_name": "Lawrence County",
    "bachelorsOrHigher": "NALMLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "1095",
+   "fips": 1095,
    "state": "AL",
    "area_name": "Marshall County",
    "bachelorsOrHigher": "NALMLS",
    "bachelorsOrHigher2": "NALMLS"
  },
  {
-   "fips": "17043",
+   "fips": 17043,
    "state": "IL",
    "area_name": "DuPage County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "17089",
+   "fips": 17089,
    "state": "IL",
    "area_name": "Kane County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "17093",
+   "fips": 17093,
    "state": "IL",
    "area_name": "Kendall County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "17097",
+   "fips": 17097,
    "state": "IL",
    "area_name": "Lake County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "17111",
+   "fips": 17111,
    "state": "IL",
    "area_name": "McHenry County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "17197",
+   "fips": 17197,
    "state": "IL",
    "area_name": "Will County",
    "bachelorsOrHigher": "MRED",
    "bachelorsOrHigher2": "MRED"
  },
  {
-   "fips": "6057",
+   "fips": 6057,
    "state": "CA",
    "area_name": "Nevada County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "MetroList"
  },
  {
-   "fips": "6005",
+   "fips": 6005,
    "state": "CA",
    "area_name": "Amador County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "MetroList"
  },
  {
-   "fips": "6011",
+   "fips": 6011,
    "state": "CA",
    "area_name": "Colusa County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "MetroList"
  },
  {
-   "fips": "6115",
+   "fips": 6115,
    "state": "CA",
    "area_name": "Yuba County",
    "bachelorsOrHigher": "MetroList",
    "bachelorsOrHigher2": "MetroList"
  },
  {
-   "fips": "1021",
+   "fips": 1021,
    "state": "AL",
    "area_name": "Chilton County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1029",
+   "fips": 1029,
    "state": "AL",
    "area_name": "Cleburne County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1037",
+   "fips": 1037,
    "state": "AL",
    "area_name": "Coosa County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1111",
+   "fips": 1111,
    "state": "AL",
    "area_name": "Randolph County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1115",
+   "fips": 1115,
    "state": "AL",
    "area_name": "St. Clair County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1117",
+   "fips": 1117,
    "state": "AL",
    "area_name": "Shelby County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "1121",
+   "fips": 1121,
    "state": "AL",
    "area_name": "Talladega County",
    "bachelorsOrHigher": "GALMLS",
    "bachelorsOrHigher2": "GALMLS"
  },
  {
-   "fips": "13135",
+   "fips": 13135,
    "state": "GA",
    "area_name": "Gwinnett County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13085",
+   "fips": 13085,
    "state": "GA",
    "area_name": "Dawson County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13097",
+   "fips": 13097,
    "state": "GA",
    "area_name": "Douglas County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13129",
+   "fips": 13129,
    "state": "GA",
    "area_name": "Gordon County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13139",
+   "fips": 13139,
    "state": "GA",
    "area_name": "Hall County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13187",
+   "fips": 13187,
    "state": "GA",
    "area_name": "Lumpkin County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13227",
+   "fips": 13227,
    "state": "GA",
    "area_name": "Pickens County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13233",
+   "fips": 13233,
    "state": "GA",
    "area_name": "Polk County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13247",
+   "fips": 13247,
    "state": "GA",
    "area_name": "Rockdale County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "13297",
+   "fips": 13297,
    "state": "GA",
    "area_name": "Walton County",
    "bachelorsOrHigher": "FMLS",
    "bachelorsOrHigher2": "FMLS"
  },
  {
-   "fips": "39109",
+   "fips": 39109,
    "state": "OH",
    "area_name": "Miami County",
    "bachelorsOrHigher": "DABR",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "39135",
+   "fips": 39135,
    "state": "OH",
    "area_name": "Preble County",
    "bachelorsOrHigher": "DABR",
    "bachelorsOrHigher2": "DABR"
  },
  {
-   "fips": "51036",
+   "fips": 51036,
    "state": "VA",
    "area_name": "Charles City County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51570",
+   "fips": 51570,
    "state": "VA",
    "area_name": "Colonial Heights city",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51053",
+   "fips": 51053,
    "state": "VA",
    "area_name": "Dinwiddie County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51081",
+   "fips": 51081,
    "state": "VA",
    "area_name": "Greensville County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51670",
+   "fips": 51670,
    "state": "VA",
    "area_name": "Hopewell city",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51127",
+   "fips": 51127,
    "state": "VA",
    "area_name": "New Kent County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51730",
+   "fips": 51730,
    "state": "VA",
    "area_name": "Petersburg city",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51145",
+   "fips": 51145,
    "state": "VA",
    "area_name": "Powhatan County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51181",
+   "fips": 51181,
    "state": "VA",
    "area_name": "Surry County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "51183",
+   "fips": 51183,
    "state": "VA",
    "area_name": "Sussex County",
    "bachelorsOrHigher": "CVRMLS",
    "bachelorsOrHigher2": "CVRMLS"
  },
  {
-   "fips": "48491",
+   "fips": 48491,
    "state": "TX",
    "area_name": "Williamson County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48057",
+   "fips": 48057,
    "state": "TX",
    "area_name": "Calhoun County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48099",
+   "fips": 48099,
    "state": "TX",
    "area_name": "Coryell County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48123",
+   "fips": 48123,
    "state": "TX",
    "area_name": "DeWitt County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48177",
+   "fips": 48177,
    "state": "TX",
    "area_name": "Gonzales County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48239",
+   "fips": 48239,
    "state": "TX",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48281",
+   "fips": 48281,
    "state": "TX",
    "area_name": "Lampasas County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48285",
+   "fips": 48285,
    "state": "TX",
    "area_name": "Lavaca County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48331",
+   "fips": 48331,
    "state": "TX",
    "area_name": "Milam County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48391",
+   "fips": 48391,
    "state": "TX",
    "area_name": "Refugio County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "48469",
+   "fips": 48469,
    "state": "TX",
    "area_name": "Victoria County",
    "bachelorsOrHigher": "CTXMLS",
    "bachelorsOrHigher2": "CTXMLS"
  },
  {
-   "fips": "6019",
+   "fips": 6019,
    "state": "CA",
    "area_name": "Fresno County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "6043",
+   "fips": 6043,
    "state": "CA",
    "area_name": "Mariposa County",
    "bachelorsOrHigher": "CRMLS",
    "bachelorsOrHigher2": "CRMLS"
  },
  {
-   "fips": "39041",
+   "fips": 39041,
    "state": "OH",
    "area_name": "Delaware County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39047",
+   "fips": 39047,
    "state": "OH",
    "area_name": "Fayette County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39073",
+   "fips": 39073,
    "state": "OH",
    "area_name": "Hocking County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39089",
+   "fips": 39089,
    "state": "OH",
    "area_name": "Licking County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39097",
+   "fips": 39097,
    "state": "OH",
    "area_name": "Madison County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39101",
+   "fips": 39101,
    "state": "OH",
    "area_name": "Marion County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39117",
+   "fips": 39117,
    "state": "OH",
    "area_name": "Morrow County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39127",
+   "fips": 39127,
    "state": "OH",
    "area_name": "Perry County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39129",
+   "fips": 39129,
    "state": "OH",
    "area_name": "Pickaway County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "39159",
+   "fips": 39159,
    "state": "OH",
    "area_name": "Union County",
    "bachelorsOrHigher": "Columbus Realtors MLS",
    "bachelorsOrHigher2": "Columbus Realtors MLS"
  },
  {
-   "fips": "12037",
+   "fips": 12037,
    "state": "FL",
    "area_name": "Franklin County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12039",
+   "fips": 12039,
    "state": "FL",
    "area_name": "Gadsden County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12063",
+   "fips": 12063,
    "state": "FL",
    "area_name": "Jackson County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12077",
+   "fips": 12077,
    "state": "FL",
    "area_name": "Liberty County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12079",
+   "fips": 12079,
    "state": "FL",
    "area_name": "Madison County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12123",
+   "fips": 12123,
    "state": "FL",
    "area_name": "Taylor County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "12129",
+   "fips": 12129,
    "state": "FL",
    "area_name": "Wakulla County",
    "bachelorsOrHigher": "CATRS",
    "bachelorsOrHigher2": "CATRS"
  },
  {
-   "fips": "37003",
+   "fips": 37003,
    "state": "NC",
    "area_name": "Alexander County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37007",
+   "fips": 37007,
    "state": "NC",
    "area_name": "Anson County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37021",
+   "fips": 37021,
    "state": "NC",
    "area_name": "Buncombe County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37023",
+   "fips": 37023,
    "state": "NC",
    "area_name": "Burke County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37027",
+   "fips": 37027,
    "state": "NC",
    "area_name": "Caldwell County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37035",
+   "fips": 37035,
    "state": "NC",
    "area_name": "Catawba County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37045",
+   "fips": 37045,
    "state": "NC",
    "area_name": "Cleveland County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37071",
+   "fips": 37071,
    "state": "NC",
    "area_name": "Gaston County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37089",
+   "fips": 37089,
    "state": "NC",
    "area_name": "Henderson County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37097",
+   "fips": 37097,
    "state": "NC",
    "area_name": "Iredell County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37109",
+   "fips": 37109,
    "state": "NC",
    "area_name": "Lincoln County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37111",
+   "fips": 37111,
    "state": "NC",
    "area_name": "McDowell County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37115",
+   "fips": 37115,
    "state": "NC",
    "area_name": "Madison County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37123",
+   "fips": 37123,
    "state": "NC",
    "area_name": "Montgomery County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37149",
+   "fips": 37149,
    "state": "NC",
    "area_name": "Polk County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37159",
+   "fips": 37159,
    "state": "NC",
    "area_name": "Rowan County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37161",
+   "fips": 37161,
    "state": "NC",
    "area_name": "Rutherford County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37167",
+   "fips": 37167,
    "state": "NC",
    "area_name": "Stanly County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37175",
+   "fips": 37175,
    "state": "NC",
    "area_name": "Transylvania County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "37179",
+   "fips": 37179,
    "state": "NC",
    "area_name": "Union County",
    "bachelorsOrHigher": "Canopy MLS",
    "bachelorsOrHigher2": "Canopy MLS"
  },
  {
-   "fips": "24039",
+   "fips": 24039,
    "state": "MD",
    "area_name": "Somerset County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "24047",
+   "fips": 24047,
    "state": "MD",
    "area_name": "Worcester County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "34019",
+   "fips": 34019,
    "state": "NJ",
    "area_name": "Hunterdon County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "34033",
+   "fips": 34033,
    "state": "NJ",
    "area_name": "Salem County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "34035",
+   "fips": 34035,
    "state": "NJ",
    "area_name": "Somerset County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42027",
+   "fips": 42027,
    "state": "PA",
    "area_name": "Centre County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42043",
+   "fips": 42043,
    "state": "PA",
    "area_name": "Dauphin County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42057",
+   "fips": 42057,
    "state": "PA",
    "area_name": "Fulton County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42077",
+   "fips": 42077,
    "state": "PA",
    "area_name": "Lehigh County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42095",
+   "fips": 42095,
    "state": "PA",
    "area_name": "Northampton County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "42099",
+   "fips": 42099,
    "state": "PA",
    "area_name": "Perry County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "51113",
+   "fips": 51113,
    "state": "VA",
    "area_name": "Madison County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "51157",
+   "fips": 51157,
    "state": "VA",
    "area_name": "Rappahannock County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "51171",
+   "fips": 51171,
    "state": "VA",
    "area_name": "Shenandoah County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "51600",
+   "fips": 51600,
    "state": "VA",
    "area_name": "Fairfax city",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "54031",
+   "fips": 54031,
    "state": "WV",
    "area_name": "Hardy County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "54037",
+   "fips": 54037,
    "state": "WV",
    "area_name": "Jefferson County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "54057",
+   "fips": 54057,
    "state": "WV",
    "area_name": "Mineral County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "54065",
+   "fips": 54065,
    "state": "WV",
    "area_name": "Morgan County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "54071",
+   "fips": 54071,
    "state": "WV",
    "area_name": "Pendleton County",
    "bachelorsOrHigher": "Bright MLS",
    "bachelorsOrHigher2": "Bright MLS"
  },
  {
-   "fips": "12011",
+   "fips": 12011,
    "state": "FL",
    "area_name": "Broward County",
    "bachelorsOrHigher": "Beaches MLS",

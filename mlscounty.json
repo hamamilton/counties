@@ -4123,13 +4123,6 @@
         "area_name": "Anchorage Municipality"
     },
     {
-        "fips": ,
-        "state": "AK",
-        "bachelorsOrHigher": "AKMLS",
-        "Secondary MLS": "0",
-        "area_name": ""
-    },
-    {
         "fips": 31025,
         "state": "NE",
         "bachelorsOrHigher": " GPRMLS",
@@ -6389,13 +6382,6 @@
         "bachelorsOrHigher": "0",
         "Secondary MLS": "0",
         "area_name": "Aleutians East Borough"
-    },
-    {
-        "fips": ,
-        "state": "AK",
-        "bachelorsOrHigher": "0",
-        "Secondary MLS": "0",
-        "area_name": ""
     },
     {
         "fips": 2050,

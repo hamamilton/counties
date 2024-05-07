@@ -2,17 +2,17 @@
     {
         "fips": 1019,
         "state": "AL",
-        "Primary MLS": "Valley MLS",
-        "Secondary MLS": "NALMLS",
+        "primary_mls": "Valley MLS",
+        "secondary_mls": "NALMLS",
         "area_name": "Cherokee County",
-        "bachelorsOrHigher": 1.0
+        "bachelorsOrHigher": 1.01
     },
     {
         "fips": 1049,
         "state": "AL",
-        "Primary MLS": "Valley MLS",
-        "Secondary MLS": "NALMLS",
+        "primary_mls": "Valley MLS",
+        "secondary_mls": "NALMLS",
         "area_name": "DeKalb County",
-        "bachelorsOrHigher": 1.0
+        "bachelorsOrHigher": 1.01
     }
 ]

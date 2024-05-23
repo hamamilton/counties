@@ -5,7 +5,7 @@
         "primary_mls": "Valley MLS",
         "secondary_mls": "NALMLS",
         "area_name": "Cherokee County",
-        "bachelorsOrHigher": 1.01
+        "dm_area": 50
     },
     {
         "fips": 1049,
@@ -13,6 +13,6 @@
         "primary_mls": "Valley MLS",
         "secondary_mls": "NALMLS",
         "area_name": "DeKalb County",
-        "bachelorsOrHigher": 1.01
+        "dm_area": 45
     }
 ]

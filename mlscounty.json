@@ -479,7 +479,7 @@
     "fips": 2016,
     "state": "AK",
     "area_name": "Aleutians West Census Area",
-    "bachelorsOrHigher": 55,
+    "bachelorsOrHigher": 10,
     "mls_name": " "
   },
   {
@@ -647,7 +647,7 @@
     "fips": 2158,
     "state": "AK",
     "area_name": "Kusilvak Census Area",
-    "bachelorsOrHigher": 55,
+    "bachelorsOrHigher": 10,
     "mls_name": " "
   },
   {
@@ -12960,8 +12960,8 @@
     "fips": 36047,
     "state": "NY",
     "area_name": "Kings County",
-    "bachelorsOrHigher": 10,
-    "mls_name": "None"
+    "bachelorsOrHigher": 55,
+    "mls_name": "OneKey MLS"
   },
   {
     "fips": 36049,
@@ -16922,7 +16922,7 @@
     "fips": 46102,
     "state": "SD",
     "area_name": "Oglala Lakota County",
-    "bachelorsOrHigher": 55,
+    "bachelorsOrHigher": 10,
     "mls_name": " "
   },
   {
@@ -20787,7 +20787,7 @@
     "state": "WA",
     "area_name": "King County",
     "bachelorsOrHigher": 55,
-    "mls_name": "OneKey MLS"
+    "mls_name": "NWMLS"
   },
   {
     "fips": 53035,

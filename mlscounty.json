@@ -1,7 +1,7 @@
 [
     {
         "state_long": "Alabama",
-        "fips": "01001",
+        "fips": "1001",
         "area_name": "Autauga",
         "association_name": "Montgomery Area Association of REALTORS®",
         "mls_name": "Montgomery MLS",
@@ -12,7 +12,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01003",
+        "fips": "1003",
         "area_name": "Baldwin",
         "association_name": "Baldwin County Association of REALTORS®",
         "mls_name": "Baldwin County MLS",
@@ -23,7 +23,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01005",
+        "fips": "1005",
         "area_name": "Barbour",
         "association_name": "Eufaula Board of REALTORS®",
         "mls_name": "Montgomery MLS",
@@ -34,7 +34,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01007",
+        "fips": "1007",
         "area_name": "Bibb",
         "association_name": "Birmingham Association of REALTORS®",
         "mls_name": "Greater Alabama MLS",
@@ -45,7 +45,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01009",
+        "fips": "1009",
         "area_name": "Blount",
         "association_name": "Birmingham Association of REALTORS®",
         "mls_name": "Greater Alabama MLS",
@@ -56,7 +56,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01011",
+        "fips": "1011",
         "area_name": "Bullock",
         "association_name": "Montgomery Area Association of REALTORS®",
         "mls_name": "Montgomery MLS",
@@ -67,7 +67,7 @@
     },
     {
         "state_long": "Alabama",
-        "fips": "01013",
+        "fips": "1013",
         "area_name": "Butler",
         "association_name": "Montgomery Area Association of REALTORS®",
         "mls_name": "Montgomery MLS",

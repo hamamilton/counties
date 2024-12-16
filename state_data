@@ -4,349 +4,399 @@
         "dm_coverage": "659762",
         "ttl_households": "730483",
         "dm_percent": "90%",
-        "orders": ""
+        "orders": "",
+        "fips": "2000"
     },
     {
         "state": "AL",
         "dm_coverage": "3001158",
         "ttl_households": "4886036",
         "dm_percent": "61%",
-        "orders": "8882"
+        "orders": "8882",
+        "fips": "1000"
     },
     {
         "state": "AR",
         "dm_coverage": "0",
         "ttl_households": "2562525",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "4000"
     },
     {
         "state": "AZ",
         "dm_coverage": "6962739",
         "ttl_households": "7512396",
         "dm_percent": "93%",
-        "orders": ""
+        "orders": "",
+        "fips": "5000"
     },
     {
         "state": "CA",
         "dm_coverage": "37333134",
         "ttl_households": "38965193",
         "dm_percent": "96%",
-        "orders": ""
+        "orders": "",
+        "fips": "6000"
     },
     {
         "state": "CO",
         "dm_coverage": "4553665",
         "ttl_households": "5176194",
         "dm_percent": "88%",
-        "orders": ""
+        "orders": "",
+        "fips": "8000"
     },
     {
         "state": "CT",
         "dm_coverage": "2619609",
         "ttl_households": "2619609",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "9000"
     },
     {
         "state": "DE",
         "dm_coverage": "447630",
         "ttl_households": "447630",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "10000"
     },
     {
         "state": "FL",
         "dm_coverage": "7103571",
         "ttl_households": "9335399",
         "dm_percent": "76%",
-        "orders": ""
+        "orders": "",
+        "fips": "12000"
     },
     {
         "state": "GA",
         "dm_coverage": "8203930",
         "ttl_households": "10964516",
         "dm_percent": "75%",
-        "orders": ""
+        "orders": "",
+        "fips": "13000"
     },
     {
         "state": "HI",
         "dm_coverage": "0",
         "ttl_households": "517940",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "15000"
     },
     {
         "state": "IA",
         "dm_coverage": "0",
         "ttl_households": "3138342",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "19000"
     },
     {
         "state": "ID",
         "dm_coverage": "1012898",
         "ttl_households": "1619819",
         "dm_percent": "63%",
-        "orders": ""
+        "orders": "",
+        "fips": "16000"
     },
     {
         "state": "IL",
         "dm_coverage": "7511536",
         "ttl_households": "9525738",
         "dm_percent": "79%",
-        "orders": ""
+        "orders": "",
+        "fips": "17000"
     },
     {
         "state": "IN",
         "dm_coverage": "2240121",
         "ttl_households": "6597054",
         "dm_percent": "34%",
-        "orders": ""
+        "orders": "",
+        "fips": "18000"
     },
     {
         "state": "KS",
         "dm_coverage": "948852",
         "ttl_households": "2937320",
         "dm_percent": "32%",
-        "orders": ""
+        "orders": "",
+        "fips": "20000"
     },
     {
         "state": "KY",
         "dm_coverage": "372898",
         "ttl_households": "4064420",
         "dm_percent": "9%",
-        "orders": "0"
+        "orders": "0",
+        "fips": "21000"
     },
     {
         "state": "LA",
         "dm_coverage": "3956730",
         "ttl_households": "4576053",
         "dm_percent": "86%",
-        "orders": ""
+        "orders": "",
+        "fips": "22000"
     },
     {
         "state": "MA",
         "dm_coverage": "6621327",
         "ttl_households": "7015001",
         "dm_percent": "94%",
-        "orders": ""
+        "orders": "",
+        "fips": "25000"
     },
     {
         "state": "MD",
         "dm_coverage": "5635054",
         "ttl_households": "5635054",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "24000"
     },
     {
         "state": "ME",
         "dm_coverage": "0",
         "ttl_households": "1397580",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "23000"
     },
     {
         "state": "MI",
         "dm_coverage": "7964797",
         "ttl_households": "10037632",
         "dm_percent": "79%",
-        "orders": ""
+        "orders": "",
+        "fips": "26000"
     },
     {
         "state": "MN",
         "dm_coverage": "5737804",
         "ttl_households": "5737804",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "27000"
     },
     {
         "state": "MO",
         "dm_coverage": "3624011",
         "ttl_households": "6195663",
         "dm_percent": "58%",
-        "orders": ""
+        "orders": "",
+        "fips": "29000"
     },
     {
         "state": "MS",
         "dm_coverage": "798735",
         "ttl_households": "2938610",
         "dm_percent": "27%",
-        "orders": ""
+        "orders": "",
+        "fips": "28000"
     },
     {
         "state": "MT",
         "dm_coverage": "0",
         "ttl_households": "1132753",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "30000"
     },
     {
         "state": "NC",
         "dm_coverage": "2855585",
         "ttl_households": "4228329",
         "dm_percent": "68%",
-        "orders": ""
+        "orders": "",
+        "fips": "37000"
     },
     {
         "state": "ND",
         "dm_coverage": "0",
         "ttl_households": "327025",
         "dm_percent": "0%",
-        "orders": "0"
+        "orders": "0",
+        "fips": "38000"
     },
     {
         "state": "NE",
         "dm_coverage": "942831",
         "ttl_households": "1980737",
         "dm_percent": "48%",
-        "orders": ""
+        "orders": "",
+        "fips": "31000"
     },
     {
         "state": "NH",
         "dm_coverage": "478103",
         "ttl_households": "478103",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "33000"
     },
     {
         "state": "NJ",
         "dm_coverage": "1820586",
         "ttl_households": "3436997",
         "dm_percent": "53%",
-        "orders": ""
+        "orders": "",
+        "fips": "34000"
     },
     {
         "state": "NM",
         "dm_coverage": "390570",
         "ttl_households": "816723",
         "dm_percent": "48%",
-        "orders": ""
+        "orders": "",
+        "fips": "35000"
     },
     {
         "state": "NV",
         "dm_coverage": "1789952",
         "ttl_households": "1789952",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "32000"
     },
     {
         "state": "NY",
         "dm_coverage": "4037499",
         "ttl_households": "7517230",
         "dm_percent": "54%",
-        "orders": "0"
+        "orders": "0",
+        "fips": "36000"
     },
     {
         "state": "OH",
         "dm_coverage": "3880192",
         "ttl_households": "4797074",
         "dm_percent": "81%",
-        "orders": ""
+        "orders": "",
+        "fips": "39000"
     },
     {
         "state": "OK",
         "dm_coverage": "573408",
         "ttl_households": "1536828",
         "dm_percent": "37%",
-        "orders": ""
+        "orders": "",
+        "fips": "40000"
     },
     {
         "state": "OR",
         "dm_coverage": "1090528",
         "ttl_households": "1669940",
         "dm_percent": "65%",
-        "orders": ""
+        "orders": "",
+        "fips": "41000"
     },
     {
         "state": "PA",
         "dm_coverage": "2848646",
         "ttl_households": "5192715",
         "dm_percent": "55%",
-        "orders": "0"
+        "orders": "0",
+        "fips": "42000"
     },
     {
         "state": "RI",
         "dm_coverage": "431993",
         "ttl_households": "431993",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "44000"
     },
     {
         "state": "SC",
         "dm_coverage": "0",
         "ttl_households": "2060960",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "45000"
     },
     {
         "state": "SD",
         "dm_coverage": "0",
         "ttl_households": "349021",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "46000"
     },
     {
         "state": "TN",
         "dm_coverage": "1482702",
         "ttl_households": "2798732",
         "dm_percent": "53%",
-        "orders": ""
+        "orders": "",
+        "fips": "47000"
     },
     {
         "state": "TX",
         "dm_coverage": "7277883",
         "ttl_households": "11847347",
         "dm_percent": "61%",
-        "orders": ""
+        "orders": "",
+        "fips": "48000"
     },
     {
         "state": "UT",
         "dm_coverage": "890179",
         "ttl_households": "1077775",
         "dm_percent": "83%",
-        "orders": ""
+        "orders": "",
+        "fips": "49000"
     },
     {
         "state": "VA",
         "dm_coverage": "1524555",
         "ttl_households": "2302161",
         "dm_percent": "66%",
-        "orders": ""
+        "orders": "",
+        "fips": "50000"
     },
     {
         "state": "VT",
         "dm_coverage": "265743",
         "ttl_households": "265743",
         "dm_percent": "100%",
-        "orders": ""
+        "orders": "",
+        "fips": "51000"
     },
     {
         "state": "WA",
         "dm_coverage": "2397869",
         "ttl_households": "3041781",
         "dm_percent": "79%",
-        "orders": ""
+        "orders": "",
+        "fips": "53000"
     },
     {
         "state": "WI",
         "dm_coverage": "0",
         "ttl_households": "2348029",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "55000"
     },
     {
         "state": "WV",
         "dm_coverage": "0",
         "ttl_households": "650797",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "54000"
     },
     {
         "state": "WY",
         "dm_coverage": "0",
         "ttl_households": "243106",
         "dm_percent": "0%",
-        "orders": ""
+        "orders": "",
+        "fips": "56000"
     }
 ]
